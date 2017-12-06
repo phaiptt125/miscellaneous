@@ -1,0 +1,3923 @@
+a operator	A operator	43-2021
+a operator	A operator	51-9199
+accident investigator	Accident investigator	13-1031
+accident investigator	Accident investigator	33-3021
+draper	Draper	27-1026
+draper	Draper	51-6099
+draper	Draper	51-9061
+animal feeder	Animal feeder	39-2021
+animal feeder	Animal feeder	45-2093
+draw tender	Draw tender	33-9091
+draw tender	Draw tender	51-6064
+drawer	Drawer	51-6064
+drawer	Drawer	51-9199
+drawer	Drawer	53-7062
+dresser	Dresser	39-3092
+dresser	Dresser	51-4033
+dresser	Dresser	51-9195
+dresser	Dresser	51-9199
+dresser	Dresser	53-7062
+dresser poultry	Poultry dresser	45-2093
+dresser poultry	Poultry dresser	51-3022
+dresser stone	Stone dresser	49-9041
+dresser stone	Stone dresser	51-9195
+animal husbandman	Animal husbandman	11-9011
+animal husbandman	Animal husbandman	11-9012
+animal husbandman	Animal husbandman	19-1011
+drier	Drier	51-3091
+drier	Drier	51-6011
+drier	Drier	51-9051
+drier	Drier	53-7063
+drier feeder	Drier feeder	51-9051
+drier feeder	Drier feeder	53-7063
+drier sand	Sand drier	51-9051
+drier sand	Sand drier	53-7062
+animal keeper ns	Animal keeper \ n.s.	39-2021
+animal keeper ns	Animal keeper \ n.s.	45-2093
+drifter	Drifter	47-2061
+drifter	Drifter	51-9192
+drill ns operator	Drill operator \ n.s.	47-5012
+drill ns operator	Drill operator \ n.s.	47-5021
+drill ns operator	Drill operator \ n.s.	51-9199
+driller	Driller	47-5012
+driller	Driller	47-5021
+driller	Driller	51-4032
+driller	Driller	51-9083
+drilling machine ns operator	Drilling machine operator \ n.s.	47-5012
+drilling machine ns operator	Drilling machine operator \ n.s.	47-5021
+drilling machine ns operator	Drilling machine operator \ n.s.	51-9199
+driver fence post	Fence post driver	45-2093
+driver fence post	Fence post driver	47-2061
+driver mule	Mule driver	45-2093
+driver mule	Mule driver	53-7199
+driver ns	Driver \ n.s.	25-4031
+driver ns	Driver \ n.s.	45-4029
+driver ns	Driver \ n.s.	49-9091
+driver ns	Driver \ n.s.	53-3021
+driver ns	Driver \ n.s.	53-3022
+driver ns	Driver \ n.s.	53-3031
+driver ns	Driver \ n.s.	53-3032
+driver ns	Driver \ n.s.	53-3041
+driver ns	Driver \ n.s.	53-7062
+driver ns tractor	Tractor driver \ n.s.	45-2091
+driver ns tractor	Tractor driver \ n.s.	53-7051
+driver ns truck	Truck driver \ n.s.	33-2011
+driver ns truck	Truck driver \ n.s.	45-4022
+driver ns truck	Truck driver \ n.s.	53-3032
+driver ns truck	Truck driver \ n.s.	53-3033
+driver patrol	Patrol driver	33-3051
+driver patrol	Patrol driver	47-2073
+driver route	Route driver	49-9091
+driver route	Route driver	53-3031
+driver route	Route driver	53-3033
+antenna installer	Antenna installer	47-2111
+antenna installer	Antenna installer	49-3023
+antenna installer	Antenna installer	51-2099
+driver skidder	Skidder driver	45-4029
+driver skidder	Skidder driver	53-7051
+driver stock	Stock driver	45-2093
+driver stock	Stock driver	53-7062
+dropper	Dropper	51-4022
+dropper	Dropper	51-9199
+dropper	Dropper	53-7199
+drummer	Drummer	27-2042
+drummer	Drummer	51-6099
+dry house worker	Dry house worker	37-2011
+dry house worker	Dry house worker	51-9199
+dryland farmer	Farmer, dryland	11-9011
+dryland farmer	Farmer, dryland	11-9012
+dryland farmer	Farmer, dryland	45-2092
+dude wrangler	Dude wrangler	39-3091
+dude wrangler	Dude wrangler	45-2093
+dumpman	Dumpman	51-5022
+dumpman	Dumpman	51-9199
+dumpman	Dumpman	53-7081
+duplicator	Duplicator	43-9071
+duplicator	Duplicator	51-4192
+duster	Duster	37-2012
+duster	Duster	51-6099
+duster	Duster	51-9123
+echometer engineer	Engineer, echometer	17-3029
+echometer engineer	Engineer, echometer	19-4041
+antenna installer television	Television antenna installer	47-2111
+antenna installer television	Television antenna installer	51-2099
+edge runner	Edge runner	51-7041
+edge runner	Edge runner	53-7063
+editor map	Map editor	17-1021
+editor map	Map editor	43-4181
+education physical teacher	Teacher, physical education	25-1193
+education physical teacher	Teacher, physical education	25-2031
+education physical teacher	Teacher, physical education	27-2022
+electric wirer	Electric wirer	47-2111
+electric wirer	Electric wirer	51-2022
+electrical inspector	Inspector, electrical	47-4011
+electrical inspector	Inspector, electrical	51-9061
+electrical installer	Electrical installer	47-2111
+electrical installer	Electrical installer	49-2091
+electrical technician	Technician, electrical	17-3023
+electrical technician	Technician, electrical	49-2092
+electrical wirer	Electrical wirer	47-2111
+electrical wirer	Electrical wirer	51-2022
+electrician helper	Helper, electrician	47-3013
+electrician helper	Helper, electrician	51-9198
+electrician maintenance	Maintenance electrician	47-2111
+electrician maintenance	Maintenance electrician	49-3023
+electrician ns	Electrician \ n.s.	47-2111
+electrician ns	Electrician \ n.s.	49-2096
+electrolysis operator	Electrolysis operator	39-5012
+electrolysis operator	Electrolysis operator	51-9199
+electronic technician	Technician, electronic	17-3023
+electronic technician	Technician, electronic	49-2092
+elevator inspector	Inspector, elevator	47-4011
+elevator inspector	Inspector, elevator	51-9061
+elevator operator	Elevator operator	13-1021
+elevator operator	Elevator operator	45-2041
+elevator operator	Elevator operator	53-7199
+embossing machine operator	Embossing machine operator	43-9071
+embossing machine operator	Embossing machine operator	51-5023
+embossing machine operator	Embossing machine operator	51-7042
+activity cna ns	C.N.A. \ activity n.s.	15-1071
+activity cna ns	C.N.A. \ activity n.s.	31-1012
+employee	Employee	35-9099
+employee	Employee	39-3091
+employee	Employee	45-4011
+employee	Employee	51-6011
+employee	Employee	51-9131
+employee	Employee	51-9131
+employee	Employee	51-9199
+employee	Employee	53-6031
+enameler	Enameler	47-2141
+enameler	Enameler	51-9121
+enameler	Enameler	51-9123
+engine marine mechanic	Mechanic, marine engine	49-3031
+engine marine mechanic	Mechanic, marine engine	53-5031
+any coordinator listed not	Coordinator \ any not listed	11-9199
+any coordinator listed not	Coordinator \ any not listed	43-9199
+engineer equipment ns operating	Engineer, operating equipment \ n.s.	47-2073
+engineer equipment ns operating	Engineer, operating equipment \ n.s.	53-5031
+engineer field	Engineer, field	17-2112
+engineer field	Engineer, field	27-4012
+engineer field service	Engineer, field service	17-2011
+engineer field service	Engineer, field service	17-2141
+engineer field service	Engineer, field service	49-9061
+engineer flight	Engineer, flight	17-2011
+engineer flight	Engineer, flight	53-2011
+engineer inspecting	Engineer, inspecting	13-1041
+engineer inspecting	Engineer, inspecting	17-2111
+engineer maintenance	Engineer, maintenance	17-2051
+engineer maintenance	Engineer, maintenance	17-2071
+engineer maintenance	Engineer, maintenance	49-2097
+engineer maintenance	Engineer, maintenance	51-8021
+engineer ns	Engineer \ n.s.	17-2011
+engineer ns	Engineer \ n.s.	17-2041
+engineer ns	Engineer \ n.s.	17-2051
+engineer ns	Engineer \ n.s.	17-2112
+engineer ns	Engineer \ n.s.	17-2121
+engineer ns	Engineer \ n.s.	17-2131
+engineer ns	Engineer \ n.s.	17-2141
+engineer ns	Engineer \ n.s.	17-2171
+engineer ns	Engineer \ n.s.	17-2199
+engineer ns	Engineer \ n.s.	53-4011
+engineer ns operating	Engineer, operating \ n.s.	47-2073
+engineer ns operating	Engineer, operating \ n.s.	53-5031
+engineer ns station	Engineer, station \ n.s.	27-4012
+engineer ns station	Engineer, station \ n.s.	53-7071
+engineer ns station	Engineer, station \ n.s.	53-7072
+engineer safety	Engineer, safety	17-2111
+engineer safety	Engineer, safety	17-2151
+engineer safety	Engineer, safety	53-6051
+engineer service	Engineer, service	17-2071
+engineer service	Engineer, service	17-2199
+engineer service	Engineer, service	49-2022
+engineer transmission	Engineer, transmission	17-2071
+engineer transmission	Engineer, transmission	27-4012
+engineer transmitter	Engineer, transmitter	17-2072
+engineer transmitter	Engineer, transmitter	27-4012
+engineering inspector	Inspector, engineering	17-2112
+engineering inspector	Inspector, engineering	47-4011
+engineman	Engineman	49-3011
+engineman	Engineman	51-8021
+engineman	Engineman	53-4011
+equipment heavy ns operator	Heavy equipment operator \ n.s.	47-2073
+equipment heavy ns operator	Heavy equipment operator \ n.s.	53-7199
+equipment inspector	Inspector, equipment	51-9061
+equipment inspector	Inspector, equipment	53-6051
+equipment manager	Manager, equipment	39-3091
+equipment manager	Manager, equipment	49-9099
+equipment ns operator	Equipment operator \ n.s.	39-3021
+equipment ns operator	Equipment operator \ n.s.	43-2099
+equipment ns operator	Equipment operator \ n.s.	43-5053
+equipment ns operator	Equipment operator \ n.s.	43-9011
+equipment ns operator	Equipment operator \ n.s.	43-9071
+equipment ns operator	Equipment operator \ n.s.	47-2073
+equipment ns operator	Equipment operator \ n.s.	47-5049
+equipment ns operator	Equipment operator \ n.s.	51-4199
+equipment ns operator	Equipment operator \ n.s.	51-6011
+equipment ns operator	Equipment operator \ n.s.	51-6031
+equipment ns operator	Equipment operator \ n.s.	51-6042
+eradicator	Eradicator	37-3012
+eradicator	Eradicator	45-2092
+any ns off specified taker	Taker off \ n.s. or any specified	51-6011
+any ns off specified taker	Taker off \ n.s. or any specified	53-7063
+eradicator weed	Weed eradicator	37-3012
+eradicator weed	Weed eradicator	45-2092
+erector fence	Fence erector	45-2093
+erector fence	Fence erector	47-4031
+erector ns	Erector \ n.s.	47-2011
+erector ns	Erector \ n.s.	49-2022
+erector ns	Erector \ n.s.	49-9041
+estimator ns	Estimator \ n.s.	13-1031
+estimator ns	Estimator \ n.s.	13-1051
+estimator ns	Estimator \ n.s.	19-1031
+estimator ns	Estimator \ n.s.	51-9061
+etcher ns	Etcher \ n.s.	27-1013
+etcher ns	Etcher \ n.s.	51-4193
+etcher ns	Etcher \ n.s.	51-5022
+etcher ns	Etcher \ n.s.	51-9194
+etcher ns	Etcher \ n.s.	51-9194
+evaluator	Evaluator	13-1041
+evaluator	Evaluator	43-3021
+examiner	Examiner	13-1031
+examiner	Examiner	13-1041
+examiner	Examiner	13-2061
+examiner	Examiner	19-1031
+examiner	Examiner	51-6011
+examiner	Examiner	51-9061
+examiner land	Land examiner	17-1022
+examiner land	Land examiner	23-2093
+exc handler mail mail sorting	Mail handler, exc. sorting mail	43-5051
+exc handler mail mail sorting	Mail handler, exc. sorting mail	53-7062
+exc maintenance managerial superintendent	Maintenance superintendent, exc. managerial	49-1011
+exc maintenance managerial superintendent	Superintendent, maintenance, exc. managerial	37-1011
+exercise teacher	Teacher, exercise	25-1193
+exercise teacher	Teacher, exercise	25-2031
+exercise teacher	Teacher, exercise	39-9031
+exerciser	Exerciser	27-2021
+exerciser	Exerciser	39-9031
+experimental mechanic ns	Mechanic, experimental \ n.s.	49-3011
+experimental mechanic ns	Mechanic, experimental \ n.s.	49-3023
+experimental mechanic ns	Mechanic, experimental \ n.s.	51-4041
+expert tree	Tree expert	19-4093
+expert tree	Tree expert	37-3013
+extra	Extra	27-2011
+extra	Extra	47-5099
+extra	Extra	51-9199
+apiculturist	Apiculturist	11-9011
+apiculturist	Apiculturist	11-9012
+apiculturist	Apiculturist	19-1013
+extractor oil	Oil extractor	51-9199
+extractor oil	Oil extractor	53-7062
+fabricator metal ns	Metal fabricator \ n.s.	49-3011
+fabricator metal ns	Metal fabricator \ n.s.	51-2041
+farm hand	Farm hand	11-9011
+farm hand	Farm hand	11-9012
+farm hand	Farm hand	45-2092
+farm hand	Farm hand	45-2093
+farm hand	Farm hand	45-2093
+farm hand	Farm hand	45-4011
+farm rancher	Farm rancher	11-9011
+farm rancher	Farm rancher	11-9012
+farm rancher	Farm rancher	45-2092
+farm rancher	Farm rancher	45-2093
+farmer fish frog oyster	Farmer, fish, frog, or oyster	11-9011
+farmer fish frog oyster	Farmer, fish, frog, or oyster	11-9012
+farmer fish frog oyster	Farmer, fish, frog, or oyster	45-2093
+farmer fish frog oyster	Farmer, fish, frog, or oyster	45-3011
+farmer fruit nut	Farmer, fruit or nut	11-9011
+farmer fruit nut	Farmer, fruit or nut	11-9012
+farmer fruit nut	Farmer, fruit or nut	45-2092
+farmer general ns	Farmer, general or n.s.	11-9011
+farmer general ns	Farmer, general or n.s.	11-9012
+farmer general ns	Farmer, general or n.s.	45-2092
+farmer general ns	Farmer, general or n.s.	45-2093
+activity ironworker none ns other	Ironworker \ n.s., other activity or none	47-2221
+activity ironworker none ns other	Ironworker \ n.s., other activity or none	51-4031
+farmer listed not specified type	Farmer \ specified type not listed	11-9011
+farmer listed not specified type	Farmer \ specified type not listed	11-9012
+farmer listed not specified type	Farmer \ specified type not listed	45-2092
+farmer listed not specified type	Farmer \ specified type not listed	45-2093
+farmer ns	Farmer \ n.s.	11-9011
+farmer ns	Farmer \ n.s.	11-9012
+farmer ns	Farmer \ n.s.	45-2092
+farmer ns	Farmer \ n.s.	45-2093
+farmer ns	Farmer \ n.s.	45-3011
+farmer ns	Farmer \ n.s.	45-4011
+farming	Farming	11-9011
+farming	Farming	11-9012
+farming	Farming	45-2092
+farming	Farming	45-2093
+appraiser ns	Appraiser \ n.s.	13-1031
+appraiser ns	Appraiser \ n.s.	13-1041
+appraiser ns	Appraiser \ n.s.	13-2021
+appraiser ns	Appraiser \ n.s.	41-9099
+farmworker ns	Farmworker \ n.s.	11-9011
+farmworker ns	Farmworker \ n.s.	11-9012
+farmworker ns	Farmworker \ n.s.	45-2092
+farmworker ns	Farmworker \ n.s.	45-2093
+father house	House father	33-3012
+father house	House father	39-9041
+feed grinder	Feed grinder	45-2093
+feed grinder	Feed grinder	51-9021
+feed mixer	Feed mixer	45-4029
+feed mixer	Feed mixer	51-9023
+feeder	Feeder	45-2099
+feeder	Feeder	45-4029
+feeder	Feeder	51-4051
+feeder	Feeder	51-6011
+feeder	Feeder	53-7063
+feeder press	Press feeder	51-5023
+feeder press	Press feeder	53-7063
+feeder stock	Stock feeder	39-2021
+feeder stock	Stock feeder	45-2093
+fence installer	Fence installer	45-2093
+fence installer	Fence installer	47-4031
+field ns supervisor	Supervisor, field \ n.s.	11-3031
+field ns supervisor	Supervisor, field \ n.s.	11-9199
+field ns supervisor	Supervisor, field \ n.s.	21-1029
+field ns supervisor	Supervisor, field \ n.s.	39-9032
+field ns supervisor	Supervisor, field \ n.s.	45-1011
+field ns supervisor	Supervisor, field \ n.s.	47-1011
+field representative	Field representative	11-9151
+field representative	Field representative	21-1093
+field representative	Field representative	39-9032
+field representative	Field representative	41-1012
+field representative	Field representative	41-3021
+field representative	Field representative	41-3099
+field representative	Field representative	41-3099
+field representative	Field representative	41-4012
+field representative	Field representative	41-9091
+field representative	Field representative	43-4111
+field representative	Field representative	43-9061
+field scout	Field scout	19-4041
+field scout	Field scout	39-9032
+field worker	Field worker	21-1093
+field worker	Field worker	21-1099
+field worker	Field worker	21-2099
+field worker	Field worker	45-2092
+field worker	Field worker	45-2093
+filer ns	Filer \ n.s.	43-4071
+filer ns	Filer \ n.s.	51-9022
+apprentice lineman	Apprentice, lineman	49-9051
+apprentice lineman	Apprentice, lineman	49-9052
+apprentice lineman	Apprentice, lineman	53-4021
+filler	Filler	47-2141
+filler	Filler	51-9111
+filler	Filler	51-9123
+filler	Filler	51-9199
+filler	Filler	51-9199
+filler	Filler	53-6031
+filler machine	Machine filler	49-9091
+filler machine	Machine filler	51-6011
+filler ns order	Order filler \ n.s.	35-3022
+filler ns order	Order filler \ n.s.	43-5081
+filter washer	Filter washer	51-9192
+filter washer	Filter washer	53-7061
+finisher hardwood	Hardwood finisher	47-2043
+finisher hardwood	Hardwood finisher	51-7021
+finishing machine operator	Finishing machine operator	51-6061
+finishing machine operator	Finishing machine operator	53-7063
+fireman ns	Fireman \ n.s.	33-2011
+fireman ns	Fireman \ n.s.	53-4012
+firer ns	Firer \ n.s.	47-5031
+firer ns	Firer \ n.s.	51-9051
+apprentice ns	Apprentice \ n.s.	49-3023
+apprentice ns	Apprentice \ n.s.	51-4111
+apprentice ns	Apprentice \ n.s.	51-5023
+fiscal officer	Fiscal officer	11-3031
+fiscal officer	Fiscal officer	13-2031
+fisherman	Fisherman	45-3011
+fisherman	Fisherman	47-5013
+fitter glass	Glass fitter	47-2121
+fitter glass	Glass fitter	49-3022
+fitter ns	Fitter \ n.s.	41-2031
+fitter ns	Fitter \ n.s.	45-4029
+fitter ns	Fitter \ n.s.	47-2011
+fitter ns	Fitter \ n.s.	47-2021
+fitter ns	Fitter \ n.s.	47-2151
+fitter ns	Fitter \ n.s.	47-2151
+fitter ns	Fitter \ n.s.	47-2152
+fitter ns	Fitter \ n.s.	47-2221
+fitter ns	Fitter \ n.s.	49-3041
+fitter ns	Fitter \ n.s.	51-2099
+fitter ns	Fitter \ n.s.	51-4041
+fitter ns	Fitter \ n.s.	51-4192
+fitter ns	Fitter \ n.s.	51-6042
+fitter ns	Fitter \ n.s.	51-6052
+fitter ns	Fitter \ n.s.	51-9199
+fitter shoe	Shoe fitter	41-2031
+fitter shoe	Shoe fitter	51-6042
+fitter up	Fitter up	47-2011
+fitter up	Fitter up	49-9041
+fitter up	Fitter up	51-4192
+flagger	Flagger	33-9091
+flagger	Flagger	39-3091
+flagman	Flagman	33-9091
+flagman	Flagman	33-9091
+flagman	Flagman	45-2092
+flagman	Flagman	45-4029
+flagman	Flagman	47-5099
+flagman	Flagman	51-9199
+flagman	Flagman	53-4021
+apprentice ns painter	Apprentice, painter \ n.s.	27-1013
+apprentice ns painter	Apprentice, painter \ n.s.	47-2141
+apprentice ns painter	Apprentice, painter \ n.s.	51-6042
+apprentice ns painter	Apprentice, painter \ n.s.	51-9121
+apprentice ns painter	Apprentice, painter \ n.s.	51-9121
+apprentice ns painter	Apprentice, painter \ n.s.	51-9122
+apprentice ns painter	Apprentice, painter \ n.s.	51-9123
+apprentice ns painter	Apprentice, painter \ n.s.	51-9123
+apprentice ns painter	Apprentice, painter \ n.s.	51-9131
+flapper	Flapper	51-9199
+flapper	Flapper	51-9199
+flapper	Flapper	53-7062
+flask handler	Flask handler	51-9199
+flask handler	Flask handler	53-7062
+flask pusher	Flask pusher	51-9199
+flask pusher	Flask pusher	53-7062
+apprentice painter sign	Apprentice, painter, sign	51-9123
+apprentice painter sign	Apprentice, sign painter	47-2141
+floor ns supervisor	Supervisor, floor \ n.s.	29-1111
+floor ns supervisor	Supervisor, floor \ n.s.	35-1012
+floor ns supervisor	Supervisor, floor \ n.s.	37-1011
+floor ns supervisor	Supervisor, floor \ n.s.	39-1011
+floor ns supervisor	Supervisor, floor \ n.s.	41-1011
+floor ns supervisor	Supervisor, floor \ n.s.	51-1011
+floorhand	Floorhand	47-5099
+floorhand	Floorhand	53-7062
+floorperson ns	Floorperson \ n.s.	33-9032
+floorperson ns	Floorperson \ n.s.	33-9032
+floorperson ns	Floorperson \ n.s.	35-9011
+floorperson ns	Floorperson \ n.s.	37-2011
+floorperson ns	Floorperson \ n.s.	39-3091
+floorperson ns	Floorperson \ n.s.	39-3091
+floorperson ns	Floorperson \ n.s.	47-5099
+floorperson ns	Floorperson \ n.s.	51-6031
+floorperson ns	Floorperson \ n.s.	51-6042
+floorperson ns	Floorperson \ n.s.	53-7062
+floorperson ns	Floorperson \ n.s.	53-7062
+floorperson ns	Floorperson \ n.s.	53-7064
+floorwalker	Floorwalker	33-9032
+floorwalker	Floorwalker	39-3091
+florist helper	Helper, florist	45-2092
+florist helper	Helper, florist	53-7062
+flower planter	Flower planter	11-9012
+flower planter	Flower planter	37-3011
+flower planter	Flower planter	45-2092
+flower planter	Flower planter	45-2092
+flusher	Flusher	51-9012
+flusher	Flusher	53-7061
+approver claim	Claim approver	13-1031
+approver claim	Claim approver	43-4051
+flyer	Flyer	51-6099
+flyer	Flyer	53-2012
+flyer	Flyer	53-7062
+folder linen	Linen folder	37-2012
+folder linen	Linen folder	51-6011
+folding machine operator	Folding machine operator	43-9051
+folding machine operator	Folding machine operator	51-4031
+folding machine operator	Folding machine operator	51-6011
+folding machine operator	Folding machine operator	51-6099
+folding machine operator	Folding machine operator	51-9196
+food handler	Food handler	35-2021
+food handler	Food handler	53-7064
+food inspector	Inspector, food	45-2011
+food inspector	Inspector, food	51-9061
+food manager production	Manager, food production	11-9051
+food manager production	Manager, food production	51-1011
+food supervisor	Supervisor, food	29-1031
+food supervisor	Supervisor, food	35-1012
+footman	Footman	39-9099
+footman	Footman	51-9199
+footman	Footman	53-7041
+form maker	Form maker	47-2031
+form maker	Form maker	51-6042
+form maker	Form maker	51-9199
+form setter	Form setter	47-2031
+form setter	Form setter	47-3011
+form setter	Form setter	51-5022
+activity none ns other steelworker	Steelworker \ n.s., other activity or none	47-2221
+activity none ns other steelworker	Steelworker \ n.s., other activity or none	51-2041
+arboriculturist	Arboriculturist	11-9011
+arboriculturist	Arboriculturist	11-9012
+arboriculturist	Arboriculturist	19-1013
+forwarder	Forwarder	43-5071
+forwarder	Forwarder	51-5023
+foundry hand	Foundry hand	51-9199
+foundry hand	Foundry hand	53-7062
+framer	Framer	47-2031
+framer	Framer	49-2022
+framer	Framer	51-2099
+framer	Framer	51-6064
+framer	Framer	51-7042
+framer	Framer	51-9199
+archer	Archer	27-2021
+archer	Archer	51-6042
+framer picture	Picture framer	49-9099
+framer picture	Picture framer	51-2099
+fraud investigator	Fraud investigator	33-3021
+fraud investigator	Fraud investigator	33-9021
+fraud investigator	Fraud investigator	43-9199
+fraud investigator	Investigator, fraud	33-3021
+fraud investigator	Investigator, fraud	33-9021
+fraud investigator	Investigator, fraud	43-9199
+fruit worker	Fruit worker	45-2041
+fruit worker	Fruit worker	45-2092
+fruit worker	Fruit worker	51-9199
+furnace helper mechanic	Helper, furnace mechanic	49-9098
+furnace helper mechanic	Helper, furnace mechanic	51-9198
+furnace mechanic	Mechanic, furnace	47-2021
+furnace mechanic	Mechanic, furnace	49-9021
+furnace operator	Furnace operator	37-2011
+furnace operator	Furnace operator	51-3091
+furnace operator	Furnace operator	51-4051
+furnace operator	Furnace operator	51-9051
+area supervisor	Supervisor, area	11-9199
+area supervisor	Supervisor, area	41-1011
+area supervisor	Supervisor, area	45-1011
+gaffer	Gaffer	47-2111
+gaffer	Gaffer	51-9195
+gaggerman	Gaggerman	51-9199
+gaggerman	Gaggerman	53-7062
+game manager preserve	Manager, game preserve	11-9011
+game manager preserve	Manager, game preserve	45-1011
+gang leader	Gang leader	51-1011
+gang leader	Gang leader	53-1021
+gang leader	Gang leader	53-7062
+gang ns supervisor	Supervisor, gang \ n.s.	45-1011
+gang ns supervisor	Supervisor, gang \ n.s.	47-1011
+gang ns supervisor	Supervisor, gang \ n.s.	53-1021
+gang pusher	Gang pusher	33-3012
+gang pusher	Gang pusher	51-1011
+gang pusher	Gang pusher	51-9199
+garageman	Garageman	49-1011
+garageman	Garageman	53-6031
+gardener	Gardener	11-9011
+gardener	Gardener	11-9012
+gardener	Gardener	37-3011
+gardener	Gardener	37-3011
+gardener	Gardener	37-3011
+gas operator	Gas operator	51-8092
+gas operator	Gas operator	53-7071
+gas tester	Gas tester	19-4041
+gas tester	Gas tester	51-9061
+gate tender	Gate tender	33-9032
+gate tender	Gate tender	39-3031
+gateman station	Station gateman	33-9032
+gateman station	Station gateman	53-6011
+arson investigator	Arson investigator	13-1031
+arson investigator	Arson investigator	33-2021
+gatherer	Gatherer	45-4011
+gatherer	Gatherer	51-6031
+gatherer	Gatherer	51-9195
+gauger ns	Gauger \ n.s.	13-1041
+gauger ns	Gauger \ n.s.	51-8092
+gauger ns	Gauger \ n.s.	51-8093
+gauger ns	Gauger \ n.s.	51-9061
+gearman	Gearman	43-5081
+gearman	Gearman	49-3043
+art director gallery	Art gallery director	25-4012
+art director gallery	Art gallery director	41-1011
+glass installer	Glass installer	47-2121
+glass installer	Glass installer	49-3022
+glass setter	Glass setter	47-2121
+glass setter	Glass setter	49-3022
+glass tinter	Glass tinter	47-2141
+glass tinter	Glass tinter	51-9123
+glazer	Glazer	47-2121
+glazer	Glazer	51-9123
+gofer	Gofer	43-9199
+gofer	Gofer	45-4029
+gopher	Gopher	43-9199
+gopher	Gopher	45-4029
+art supervisor	Supervisor, art	25-9031
+art supervisor	Supervisor, art	27-1011
+grader ns	Grader \ n.s.	25-9041
+grader ns	Grader \ n.s.	45-2041
+grader ns	Grader \ n.s.	47-2061
+grader ns	Grader \ n.s.	47-2073
+grader ns	Grader \ n.s.	51-9061
+grader ns	Grader \ n.s.	53-7062
+grader paper	Paper grader	25-9041
+grader paper	Paper grader	51-9061
+grader sample	Sample grader	45-2041
+grader sample	Sample grader	51-9061
+grader test	Test grader	25-9041
+grader test	Test grader	43-9199
+grader tobacco	Tobacco grader	45-2011
+grader tobacco	Tobacco grader	45-2041
+grader tobacco	Tobacco grader	51-9061
+grainer machine	Grainer, machine	51-7021
+grainer machine	Grainer, machine	53-7063
+grease man	Grease man	49-9043
+grease man	Grease man	53-6031
+grease monkey	Grease monkey	49-9043
+grease monkey	Grease monkey	53-6031
+greaser	Greaser	49-3041
+greaser	Greaser	49-9043
+greaser	Greaser	51-9199
+greaser	Greaser	53-6031
+greenhouse worker	Greenhouse Worker	37-3011
+greenhouse worker	Greenhouse Worker	45-2092
+greens tier	Greens tier	45-4011
+greens tier	Greens tier	53-7064
+greeter	Greeter	39-9099
+greeter	Greeter	41-9011
+greeter	Greeter	41-9099
+artificial inseminator	Artificial inseminator	19-4011
+artificial inseminator	Artificial inseminator	45-2021
+grinder valve	Valve grinder	49-9012
+grinder valve	Valve grinder	51-4033
+groomer horse	Horse groomer	39-2021
+groomer horse	Horse groomer	45-2093
+groundman	Groundman	45-2092
+groundman	Groundman	45-4029
+groundman	Groundman	47-2061
+groundman	Groundman	47-5099
+groundsman	Groundsman	37-3011
+groundsman	Groundsman	47-2061
+groundsman	Groundsman	49-9099
+group leader ns	Group leader \ n.s.	39-9032
+group leader ns	Group leader \ n.s.	41-3021
+group leader ns	Group leader \ n.s.	45-1011
+group leader ns	Group leader \ n.s.	51-1011
+group worker	Group worker	21-1093
+group worker	Group worker	39-9032
+grower horticultural specialty	Horticultural specialty grower	11-9011
+grower horticultural specialty	Horticultural specialty grower	45-2092
+gun tester	Gun tester	17-3029
+gun tester	Gun tester	49-9099
+gunner	Gunner	45-3011
+gunner	Gunner	51-3091
+gymnasium teacher	Teacher, gymnasium	25-1193
+gymnasium teacher	Teacher, gymnasium	25-2031
+gymnasium teacher	Teacher, gymnasium	27-2022
+hacker	Hacker	45-4011
+hacker	Hacker	53-3041
+hacker	Hacker	53-7063
+hall monitor	Hall monitor	33-9099
+hall monitor	Hall monitor	39-9011
+hammer mill operator	Hammer mill operator	45-2092
+hammer mill operator	Hammer mill operator	51-4031
+hammer mill operator	Hammer mill operator	51-9021
+hammerer helper	Helper, hammerer	47-3012
+hammerer helper	Helper, hammerer	47-5081
+hammerer helper	Helper, hammerer	51-9198
+hand ns	Hand \ n.s.	45-2092
+hand ns	Hand \ n.s.	45-2093
+hand ns	Hand \ n.s.	47-5099
+hand ns	Hand \ n.s.	51-9199
+hand ns	Hand \ n.s.	53-6031
+hand packer	Packer, hand	51-9195
+hand packer	Packer, hand	53-7064
+hand picker	Picker, hand	45-2092
+hand picker	Picker, hand	51-6099
+hand section	Section hand	47-4061
+hand section	Section hand	47-5099
+hand section	Section hand	49-1011
+hand section	Section hand	51-9199
+hand shed	Shed hand	45-2092
+hand shed	Shed hand	51-9199
+asphalt worker	Asphalt worker	47-2061
+asphalt worker	Asphalt worker	51-9199
+handler iron	Iron handler	51-9199
+handler iron	Iron handler	53-7062
+handler pig	Pig handler	51-9199
+handler pig	Pig handler	53-7062
+handyman ns	Handyman \ n.s.	37-2011
+handyman ns	Handyman \ n.s.	45-2092
+handyman ns	Handyman \ n.s.	45-2093
+handyman ns	Handyman \ n.s.	47-2061
+handyman ns	Handyman \ n.s.	47-5099
+handyman ns	Handyman \ n.s.	51-9199
+handyman ns	Handyman \ n.s.	53-5011
+handyman ns	Handyman \ n.s.	53-6031
+handyman ns	Handyman \ n.s.	53-7062
+hanger	Hanger	51-6011
+hanger	Hanger	53-7062
+hardness tester	Hardness tester	17-3029
+hardness tester	Hardness tester	51-9061
+assembler bellows	Assembler, bellows	51-2099
+assembler bellows	Assembler, bellows	53-7062
+harvester operator	Harvester operator	45-2091
+harvester operator	Harvester operator	47-5049
+harvester operator	Harvester operator	47-5099
+hasher	Hasher	35-2015
+hasher	Hasher	51-9032
+hatchery man ns	Hatchery man \ n.s.	11-9011
+hatchery man ns	Hatchery man \ n.s.	45-2093
+hatchery man ns	Hatchery man \ n.s.	45-2093
+assembler equipment farm	Assembler, farm equipment	49-3041
+assembler equipment farm	Assembler, farm equipment	51-2031
+head sawyer	Head sawyer	45-1011
+head sawyer	Head sawyer	51-7041
+header	Header	51-3022
+header	Header	51-4052
+header	Header	51-7042
+header	Header	51-9199
+header	Header	53-1021
+assembler farm machinery	Assembler, farm machinery	49-3041
+assembler farm machinery	Assembler, farm machinery	51-2031
+helper kitchen	Helper, kitchen	35-2021
+helper kitchen	Helper, kitchen	51-9198
+helper machine	Helper, machine	47-5081
+helper machine	Helper, machine	51-9198
+helper machinist	Helper, machinist	49-9098
+helper machinist	Helper, machinist	51-9198
+helper ns	Helper \ n.s.	25-4031
+helper ns	Helper \ n.s.	31-1012
+helper ns	Helper \ n.s.	35-9011
+helper ns	Helper \ n.s.	37-2012
+helper ns	Helper \ n.s.	39-2021
+helper ns	Helper \ n.s.	39-3091
+helper ns	Helper \ n.s.	39-4021
+helper ns	Helper \ n.s.	39-9011
+helper ns	Helper \ n.s.	39-9099
+helper ns	Helper \ n.s.	39-9099
+helper ns	Helper \ n.s.	45-2092
+helper ns	Helper \ n.s.	45-2093
+helper ns	Helper \ n.s.	45-2093
+helper ns	Helper \ n.s.	45-2093
+helper ns	Helper \ n.s.	45-4029
+helper ns	Helper \ n.s.	47-2061
+helper ns	Helper \ n.s.	47-5081
+helper ns	Helper \ n.s.	49-9098
+helper ns	Helper \ n.s.	51-6011
+helper ns	Helper \ n.s.	51-9131
+helper ns	Helper \ n.s.	51-9198
+helper ns	Helper \ n.s.	51-9198
+helper ns	Helper \ n.s.	53-5011
+helper ns	Helper \ n.s.	53-6031
+helper ns	Helper \ n.s.	53-7061
+helper ns	Helper \ n.s.	53-7081
+helper ns	Helper \ n.s.	53-7199
+helper nursery	Helper, nursery	37-3011
+helper nursery	Helper, nursery	39-9011
+helper pumper	Helper, pumper	47-2061
+helper pumper	Helper, pumper	47-5081
+helper pumper	Helper, pumper	51-8093
+helper pumper	Helper, pumper	51-9198
+assembler ns	Assembler \ n.s.	13-1021
+assembler ns	Assembler \ n.s.	47-2011
+assembler ns	Assembler \ n.s.	47-2221
+assembler ns	Assembler \ n.s.	51-2022
+assembler ns	Assembler \ n.s.	51-6011
+assembler ns	Assembler \ n.s.	53-7062
+helper rigger	Helper, rigger	49-9098
+helper rigger	Helper, rigger	51-9198
+helper stable	Helper, stable	39-2021
+helper stable	Helper, stable	45-2093
+herder sheep	Sheep herder	11-9011
+herder sheep	Sheep herder	11-9012
+herder sheep	Sheep herder	45-2093
+hewer	Hewer	45-4021
+hewer	Hewer	47-2031
+hewer	Hewer	51-7041
+hiker	Hiker	49-9051
+hiker	Hiker	53-6021
+hired man	Hired man	37-2011
+hired man	Hired man	45-2092
+hired man	Hired man	45-2093
+historian	Historian	19-3093
+historian	Historian	29-2071
+hitcher	Hitcher	45-4029
+hitcher	Hitcher	53-7199
+assembly field homes prefabricated supervisor	Supervisor, field assembly, prefabricated homes	47-1011
+assembly field homes prefabricated supervisor	Supervisor, field assembly, prefabricated homes	51-1011
+home supervisor	Supervisor, home	21-1029
+home supervisor	Supervisor, home	25-9021
+hook tender	Hook tender	45-4029
+hook tender	Hook tender	49-9096
+hooker	Hooker	45-3011
+hooker	Hooker	51-6042
+hooker	Hooker	51-6099
+hooker	Hooker	53-7062
+hooker log	Log hooker	45-4029
+hooker log	Log hooker	53-7199
+hooker on	Hooker on	45-4029
+hooker on	Hooker on	51-9199
+hooker on	Hooker on	51-9199
+hooker up	Hooker up	45-4029
+hooker up	Hooker up	51-9199
+hooker up	Hooker up	51-9199
+hookman	Hookman	45-4029
+hookman	Hookman	53-7062
+adjuster claim	Claim adjuster	13-1031
+adjuster claim	Claim adjuster	43-4051
+assemblyman woman	Assemblyman or woman	11-1031
+assemblyman woman	Assemblyman or woman	47-2152
+assemblyman woman	Assemblyman or woman	51-9111
+horse trainer	Horse trainer	27-2022
+horse trainer	Horse trainer	39-2011
+horse trainer	Horse trainer	39-2011
+horse wrangler	Horse wrangler	39-2011
+horse wrangler	Horse wrangler	45-2093
+horseman	Horseman	27-2021
+horseman	Horseman	39-2011
+horses mules teamster	Teamster, horses or mules	45-2093
+horses mules teamster	Teamster, horses or mules	53-7199
+horticultural worker	Horticultural worker	37-3011
+horticultural worker	Horticultural worker	45-2092
+horticulturist	Horticulturist	11-9011
+horticulturist	Horticulturist	11-9012
+horticulturist	Horticulturist	19-1013
+hoseman	Hoseman	33-2011
+hoseman	Hoseman	47-2061
+hoseman	Hoseman	47-2131
+host hostess ns	Host/hostess \ n.s.	27-3011
+host hostess ns	Host/hostess \ n.s.	35-9031
+host hostess ns	Host/hostess \ n.s.	35-9031
+host hostess ns	Host/hostess \ n.s.	41-9011
+host hostess ns specified	Host/hostess, specified or n.s.	35-9031
+host hostess ns specified	Host/hostess, specified or n.s.	39-6032
+hostler	Hostler	39-2021
+hostler	Hostler	45-4029
+hostler	Hostler	53-3032
+hostler	Hostler	53-4013
+hostler	Hostler	53-7062
+house mother	House mother	33-3012
+house mother	House mother	39-9041
+house mover	House mover	47-4099
+house mover	House mover	53-1031
+house parent	House parent	33-3012
+house parent	House parent	39-9041
+house wrecker	House wrecker	11-9021
+house wrecker	House wrecker	47-4099
+houseman ns	Houseman \ n.s.	33-9032
+houseman ns	Houseman \ n.s.	37-2011
+houseman ns	Houseman \ n.s.	51-8093
+houseman ns	Houseman \ n.s.	51-9199
+houseman ns	Houseman \ n.s.	53-7062
+husbandman poultry	Poultry husbandman	11-9011
+husbandman poultry	Poultry husbandman	11-9012
+husbandman poultry	Poultry husbandman	19-1011
+hydraulic operator	Hydraulic operator	47-5049
+hydraulic operator	Hydraulic operator	51-4022
+iceman	Iceman	35-9011
+iceman	Iceman	53-3031
+iceman	Iceman	53-7062
+assistant laboratory ns	Assistant, laboratory \ n.s.	17-3029
+assistant laboratory ns	Assistant, laboratory \ n.s.	17-3029
+assistant laboratory ns	Assistant, laboratory \ n.s.	19-4099
+assistant laboratory ns	Assistant, laboratory \ n.s.	29-2012
+assistant laboratory ns	Assistant, laboratory \ n.s.	29-2012
+inker ns	Inker \ n.s.	27-1013
+inker ns	Inker \ n.s.	51-6042
+inker ns	Inker \ n.s.	51-6099
+inker ns	Inker \ n.s.	51-9061
+inserter	Inserter	43-9199
+inserter	Inserter	47-2061
+inserter	Inserter	51-9199
+inserter	Inserter	53-7064
+inserter paper	Paper inserter	43-9199
+inserter paper	Paper inserter	51-9199
+inserting machine operator	Inserting machine operator	43-9051
+inserting machine operator	Inserting machine operator	51-9199
+inspector jet	Inspector, jet	51-9061
+inspector jet	Inspector, jet	53-6051
+inspector land	Inspector, land	13-2021
+inspector land	Inspector, land	45-2011
+inspector locks	Inspector, locks	45-2092
+inspector locks	Inspector, locks	51-9061
+inspector maintenance	Inspector, maintenance	13-1041
+inspector maintenance	Inspector, maintenance	51-9061
+inspector maintenance	Inspector, maintenance	53-6051
+assistant ns	Assistant \ n.s.	31-1012
+assistant ns	Assistant \ n.s.	31-9096
+assistant ns	Assistant \ n.s.	35-9011
+assistant ns	Assistant \ n.s.	39-3091
+assistant ns	Assistant \ n.s.	43-5051
+assistant ns	Assistant \ n.s.	43-9061
+assistant ns	Assistant \ n.s.	45-4029
+assistant ns	Assistant \ n.s.	47-5081
+assistant ns	Assistant \ n.s.	51-6011
+inspector material	Inspector, material	13-1041
+inspector material	Inspector, material	51-9061
+inspector ns	Inspector \ n.s.	13-1031
+inspector ns	Inspector \ n.s.	13-1041
+inspector ns	Inspector \ n.s.	13-1041
+inspector ns	Inspector \ n.s.	13-2011
+inspector ns	Inspector \ n.s.	13-2081
+inspector ns	Inspector \ n.s.	29-9011
+inspector ns	Inspector \ n.s.	33-2021
+inspector ns	Inspector \ n.s.	33-3021
+inspector ns	Inspector \ n.s.	37-1011
+inspector ns	Inspector \ n.s.	43-4041
+inspector ns	Inspector \ n.s.	43-4041
+inspector ns	Inspector \ n.s.	45-2011
+inspector ns	Inspector \ n.s.	47-4011
+inspector ns	Inspector \ n.s.	51-9061
+inspector ns	Inspector \ n.s.	53-6051
+inspector ns safety	Inspector, safety \ n.s.	17-2151
+inspector ns safety	Inspector, safety \ n.s.	47-4011
+inspector oil	Inspector, oil	13-1041
+inspector oil	Inspector, oil	51-9061
+inspector route	Inspector, route	45-2011
+inspector route	Inspector, route	53-6051
+inspector scales	Inspector, scales	13-1041
+inspector scales	Inspector, scales	51-9061
+inspector service	Inspector, service	47-2152
+inspector service	Inspector, service	51-9061
+assistant ns research	Assistant, research \ n.s.	17-3029
+assistant ns research	Assistant, research \ n.s.	19-4099
+assistant ns research	Assistant, research \ n.s.	19-4099
+assistant ns research	Assistant, research \ n.s.	25-1191
+assistant ns research	Assistant, research \ n.s.	25-4013
+inspector station	Inspector, station	49-2022
+inspector station	Inspector, station	53-6051
+inspector substation	Inspector, substation	13-1041
+inspector substation	Inspector, substation	51-9061
+installer meter water	Water meter installer	47-2152
+installer meter water	Water meter installer	49-9012
+installer muffler	Installer, muffler	49-3023
+installer muffler	Installer, muffler	51-2099
+installer muffler	Muffler installer	49-3023
+installer ns	Installer \ n.s.	47-4021
+installer ns	Installer \ n.s.	49-2022
+installer ns	Installer \ n.s.	49-9051
+installer sprinkler	Sprinkler installer	37-3011
+installer sprinkler	Sprinkler installer	47-2152
+installer switchboard	Switchboard installer	47-2111
+installer switchboard	Switchboard installer	49-2022
+installer window	Window installer	47-2031
+installer window	Window installer	49-3022
+installer window	Window installer	51-2099
+insulation supervisor	Supervisor, insulation	47-1011
+insulation supervisor	Supervisor, insulation	51-1011
+insulator	Insulator	47-2131
+insulator	Insulator	51-2099
+insulator	Insulator	51-9199
+internal manager security	Manager, internal security	33-1099
+internal manager security	Manager, internal security	39-1021
+assorter	Assorter	43-5053
+assorter	Assorter	51-6011
+assorter	Assorter	51-9061
+assorter	Assorter	53-7062
+interviewer ns	Interviewer \ n.s.	13-1071
+interviewer ns	Interviewer \ n.s.	43-4111
+investigator ns	Investigator \ n.s.	13-1031
+investigator ns	Investigator \ n.s.	13-1041
+investigator ns	Investigator \ n.s.	21-1029
+investigator ns	Investigator \ n.s.	21-1029
+investigator ns	Investigator \ n.s.	33-3021
+investigator ns	Investigator \ n.s.	33-9021
+investigator ns	Investigator \ n.s.	33-9031
+investigator ns	Investigator \ n.s.	33-9032
+investigator ns	Investigator \ n.s.	43-4131
+iron piler	Iron piler	51-9199
+iron piler	Iron piler	53-7062
+irrigation operator system	Irrigation system operator	45-2092
+irrigation operator system	Irrigation system operator	51-8099
+jackman	Jackman	51-6041
+jackman	Jackman	53-7062
+jet man	Jet man	47-2061
+jet man	Jet man	49-9099
+jobber	Jobber	13-1022
+jobber	Jobber	13-1023
+jobber	Jobber	51-4041
+jobs ns odd	Odd jobs \ n.s.	37-2019
+jobs ns odd	Odd jobs \ n.s.	37-3011
+jobs ns odd	Odd jobs \ n.s.	45-2092
+jobs ns odd	Odd jobs \ n.s.	45-2093
+jobs ns odd	Odd jobs \ n.s.	47-2061
+jobs ns odd	Odd jobs \ n.s.	51-9199
+jobs ns odd	Odd jobs \ n.s.	53-7062
+jockey	Jockey	27-2021
+jockey	Jockey	53-3032
+joiner	Joiner	47-2031
+joiner	Joiner	51-2099
+joiner	Joiner	51-6031
+joiner	Joiner	51-9131
+jointer	Jointer	47-2031
+jointer	Jointer	49-9052
+jointer	Jointer	51-2099
+joy loader	Joy loader	47-5099
+joy loader	Joy loader	53-7033
+joy loading machine operator	Joy loading machine operator	47-5099
+joy loading machine operator	Joy loading machine operator	53-7033
+joy operator	Joy operator	47-5099
+joy operator	Joy operator	53-7033
+judge	Judge	23-1023
+judge	Judge	27-2023
+judge	Judge	43-9199
+jumper	Jumper	47-5021
+jumper	Jumper	53-3032
+keeper	Keeper	11-9081
+keeper	Keeper	39-2021
+keeper	Keeper	39-3091
+keeper kennel	Kennel keeper	11-9011
+keeper kennel	Kennel keeper	39-2021
+keeper kennel	Kennel keeper	45-2021
+keeper morgue	Morgue keeper	11-9111
+keeper morgue	Morgue keeper	43-4071
+adjuster compensation	Compensation adjuster	13-1031
+adjuster compensation	Compensation adjuster	43-4051
+athletic coach	Athletic coach	25-2031
+athletic coach	Athletic coach	27-2022
+keeper stallion	Stallion keeper	11-9011
+keeper stallion	Stallion keeper	11-9012
+keeper stallion	Stallion keeper	45-2093
+kennel manager	Manager, kennel	11-9011
+kennel manager	Manager, kennel	11-9012
+kennel manager	Manager, kennel	45-1011
+kennel worker	Kennel worker	39-2021
+kennel worker	Kennel worker	45-2093
+kettle worker	Kettle worker	47-2061
+kettle worker	Kettle worker	51-4051
+kettle worker	Kettle worker	51-9051
+kiln loader	Kiln loader	51-9199
+kiln loader	Kiln loader	53-7063
+athletic director	Athletic director	11-9032
+athletic director	Athletic director	11-9033
+athletic director	Athletic director	27-2022
+knife setter	Knife setter	49-9043
+knife setter	Knife setter	51-7041
+knocker	Knocker	51-9199
+knocker	Knocker	53-7063
+knotter	Knotter	45-4029
+knotter	Knotter	51-6031
+knotter	Knotter	51-9199
+labor supervisor	Supervisor, labor	37-1012
+labor supervisor	Supervisor, labor	45-1011
+labor supervisor	Supervisor, labor	53-1021
+laboratory ns technician	Technician, laboratory \ n.s.	17-3023
+laboratory ns technician	Technician, laboratory \ n.s.	17-3029
+laboratory ns technician	Technician, laboratory \ n.s.	19-4011
+laboratory ns technician	Technician, laboratory \ n.s.	19-4021
+laboratory ns technician	Technician, laboratory \ n.s.	19-4031
+laboratory ns technician	Technician, laboratory \ n.s.	19-4041
+laboratory ns technician	Technician, laboratory \ n.s.	19-4099
+laboratory ns technician	Technician, laboratory \ n.s.	29-2012
+laboratory ns technician	Technician, laboratory \ n.s.	29-2012
+laboratory ns technician	Technician, laboratory \ n.s.	51-9081
+laboratory ns technician	Technician, laboratory \ n.s.	51-9131
+laboratory ns worker	Laboratory worker \ n.s.	17-3023
+laboratory ns worker	Laboratory worker \ n.s.	17-3029
+laboratory ns worker	Laboratory worker \ n.s.	19-4011
+laboratory ns worker	Laboratory worker \ n.s.	19-4021
+laboratory ns worker	Laboratory worker \ n.s.	19-4031
+laboratory ns worker	Laboratory worker \ n.s.	19-4041
+laboratory ns worker	Laboratory worker \ n.s.	19-4099
+laboratory ns worker	Laboratory worker \ n.s.	29-2012
+laboratory ns worker	Laboratory worker \ n.s.	29-2012
+laboratory ns worker	Laboratory worker \ n.s.	51-9131
+athletic events scorer	Scorer, athletic events	27-2023
+athletic events scorer	Scorer, athletic events	39-3091
+laboratory supervisor	Supervisor, laboratory	17-3029
+laboratory supervisor	Supervisor, laboratory	19-4011
+laboratory supervisor	Supervisor, laboratory	19-4031
+laboratory supervisor	Supervisor, laboratory	29-2011
+laboratory supervisor	Supervisor, laboratory	51-1011
+laborer ns	Laborer \ n.s.	37-3011
+laborer ns	Laborer \ n.s.	37-3011
+laborer ns	Laborer \ n.s.	37-3011
+laborer ns	Laborer \ n.s.	37-3011
+laborer ns	Laborer \ n.s.	37-3011
+laborer ns	Laborer \ n.s.	45-2092
+laborer ns	Laborer \ n.s.	45-2092
+laborer ns	Laborer \ n.s.	45-2093
+laborer ns	Laborer \ n.s.	45-4011
+laborer ns	Laborer \ n.s.	45-4029
+laborer ns	Laborer \ n.s.	47-2061
+laborer ns	Laborer \ n.s.	47-5099
+laborer ns	Laborer \ n.s.	49-9098
+laborer ns	Laborer \ n.s.	53-7062
+laborer skilled	Skilled laborer	47-2061
+laborer skilled	Skilled laborer	51-9199
+laborer yard	Yard laborer	37-3011
+laborer yard	Yard laborer	45-4029
+laborer yard	Yard laborer	47-5099
+laborer yard	Yard laborer	53-7062
+laminating machine operator	Laminating machine operator	47-4099
+laminating machine operator	Laminating machine operator	51-6099
+laminating machine operator	Laminating machine operator	51-7042
+laminating machine operator	Laminating machine operator	51-9041
+laminating machine operator	Laminating machine operator	51-9199
+laminator ns	Laminator \ n.s.	47-4099
+laminator ns	Laminator \ n.s.	51-2091
+laminator ns	Laminator \ n.s.	51-6099
+laminator ns	Laminator \ n.s.	51-7042
+laminator ns	Laminator \ n.s.	51-9041
+laminator ns	Laminator \ n.s.	51-9199
+athletics director	Director of athletics	11-9032
+athletics director	Director of athletics	11-9033
+athletics director	Director of athletics	27-2022
+lampman	Lampman	47-5099
+lampman	Lampman	51-9199
+athletics teacher	Teacher, athletics	25-2031
+athletics teacher	Teacher, athletics	25-3021
+athletics teacher	Teacher, athletics	27-2022
+lather	Lather	47-2081
+lather	Lather	51-7041
+layer	Layer	51-9199
+layer	Layer	53-7063
+layout ns worker	Layout worker \ n.s.	27-1019
+layout ns worker	Layout worker \ n.s.	51-4192
+layout ns worker	Layout worker \ n.s.	51-6099
+layout ns worker	Layout worker \ n.s.	51-7099
+layout ns worker	Layout worker \ n.s.	51-9071
+layout ns worker	Layout worker \ n.s.	51-9199
+layout template worker	Template layout  worker	51-4111
+layout template worker	Template layout worker	47-2211
+leader shift	Shift leader	35-1012
+leader shift	Shift leader	51-1011
+leaser	Leaser	11-9141
+leaser	Leaser	11-9199
+leaser	Leaser	13-1023
+lever operator	Lever operator	47-2073
+lever operator	Lever operator	51-4022
+lever operator	Lever operator	53-4099
+lever operator	Lever operator	53-7041
+librarian ns	Librarian \ n.s.	25-4021
+librarian ns	Librarian \ n.s.	25-4031
+librarian ns	Librarian \ n.s.	43-4071
+line rider	Line rider	45-2093
+line rider	Line rider	51-9061
+line supervisor	Supervisor, line	49-1011
+line supervisor	Supervisor, line	51-1011
+lineman ns	Lineman \ n.s.	35-2021
+lineman ns	Lineman \ n.s.	47-2111
+lineman ns	Lineman \ n.s.	47-3019
+lineman ns	Lineman \ n.s.	49-2022
+lineman ns	Lineman \ n.s.	49-9041
+lineman ns	Lineman \ n.s.	49-9051
+lineman ns	Lineman \ n.s.	49-9052
+lineman ns	Lineman \ n.s.	51-2099
+lineman ns	Lineman \ n.s.	51-9061
+lineman ns	Lineman \ n.s.	51-9111
+lineman ns	Lineman \ n.s.	51-9199
+linen supervisor	Supervisor, linen	37-1011
+linen supervisor	Supervisor, linen	51-6011
+linen worker	Linen worker	37-2012
+linen worker	Linen worker	51-6011
+attendance officer	Attendance officer	13-1041
+attendance officer	Attendance officer	21-1092
+liner	Liner	47-2021
+liner	Liner	51-2099
+liner	Liner	51-6031
+liner	Liner	51-9194
+linesman	Linesman	49-9051
+linesman	Linesman	51-4061
+linker	Linker	51-2099
+linker	Linker	53-7064
+liquidator	Liquidator	11-2022
+liquidator	Liquidator	41-9099
+lister	Lister	43-4071
+lister	Lister	51-6011
+livestock supervisor yard	Supervisor, livestock yard	45-1011
+livestock supervisor yard	Supervisor, livestock yard	51-1011
+loader ns	Loader \ n.s.	45-2092
+loader ns	Loader \ n.s.	45-2093
+loader ns	Loader \ n.s.	53-7062
+loader ns	Loader \ n.s.	53-7063
+loader ns	Loader \ n.s.	53-7121
+loader operator	Loader operator	45-4022
+loader operator	Loader operator	47-2073
+loader operator	Loader operator	53-7033
+loader operator	Loader operator	53-7062
+loader operator	Loader operator	53-7121
+loader potato	Potato loader	45-2092
+loader potato	Potato loader	53-7062
+loader top	Top loader	45-4029
+loader top	Top loader	47-5099
+loading machine operator	Loading machine operator	47-2073
+loading machine operator	Loading machine operator	51-9111
+loading machine operator	Loading machine operator	53-7032
+loading machine operator	Loading machine operator	53-7033
+loading machine operator	Loading machine operator	53-7063
+location man	Location man	11-9141
+location man	Location man	17-1011
+lock maintenance supervisor	Supervisor, lock maintenance	47-1011
+lock maintenance supervisor	Supervisor, lock maintenance	49-1011
+lookout	Lookout	33-2022
+lookout	Lookout	53-5011
+attendant cart	Cart attendant	31-1012
+attendant cart	Cart attendant	53-7062
+lubrication worker	Lubrication worker	49-9043
+lubrication worker	Lubrication worker	53-6031
+lubricator	Lubricator	49-9043
+lubricator	Lubricator	53-6031
+lumberman	Lumberman	41-1011
+lumberman	Lumberman	45-4021
+lumberman	Lumberman	51-9199
+lumberman	Lumberman	53-7062
+lumper	Lumper	51-9199
+lumper	Lumper	53-7062
+lumper	Lumper	53-7062
+machine milker	Milker machine	45-2093
+machine milker	Milker, machine	11-9012
+machine milker	Milker, machine	45-2091
+attendant change house	Change house attendant	37-2011
+attendant change house	Change house attendant	39-3093
+machine mucking operator	Mucking machine operator	47-2073
+machine mucking operator	Mucking machine operator	47-5099
+machine mucking operator	Mucking machine operator	53-7033
+machine ns operator	Machine operator \ n.s.	39-3021
+machine ns operator	Machine operator \ n.s.	43-9071
+machine ns operator	Machine operator \ n.s.	43-9071
+machine ns operator	Machine operator \ n.s.	47-2073
+machine ns operator	Machine operator \ n.s.	47-5049
+machine ns operator	Machine operator \ n.s.	51-4199
+machine ns operator	Machine operator \ n.s.	51-6011
+machine ns operator	Machine operator \ n.s.	51-6031
+machine ns operator	Machine operator \ n.s.	51-6042
+machine off operator strike	Strike off machine operator	47-2071
+machine off operator strike	Strike off machine operator	51-6061
+attendant counter ns	Counter attendant \ n.s.	35-3022
+attendant counter ns	Counter attendant \ n.s.	41-2021
+machine operator pin	Pin machine operator	39-3091
+machine operator pin	Pin machine operator	51-4199
+machine operator pin	Pin machine operator	51-6099
+machine operator popcorn	Popcorn machine operator	41-9091
+machine operator popcorn	Popcorn machine operator	51-3092
+attendant curb	Curb attendant	35-3041
+attendant curb	Curb attendant	53-7062
+machine operator roller	Roller machine operator	47-2071
+machine operator roller	Roller machine operator	51-4023
+machine operator roller	Roller machine operator	51-6099
+machine operator set up	Machine set up operator	49-9044
+machine operator set up	Machine set up operator	51-4199
+attendant dry house	Dry house attendant	37-2011
+attendant dry house	Dry house attendant	51-7099
+attendant dry house	Dry house attendant	51-9199
+machine operator sorting	Sorting machine operator	43-5053
+machine operator sorting	Sorting machine operator	43-9011
+machine operator sorting	Sorting machine operator	45-2041
+machine operator sorting	Sorting machine operator	51-9012
+machine operator sorting	Sorting machine operator	51-9061
+attendant elevator	Elevator attendant	13-1021
+attendant elevator	Elevator attendant	53-7199
+machine operator sterilizer	Sterilizer machine operator	31-9093
+machine operator sterilizer	Sterilizer machine operator	51-6011
+machine operator sterilizer	Sterilizer machine operator	51-9051
+machine operator tamping	Tamping machine operator	47-2071
+machine operator tamping	Tamping machine operator	53-4099
+attendant filling station	Filling station attendant	41-1012
+attendant filling station	Filling station attendant	53-6031
+machine operator twisting	Twisting machine operator	51-4199
+machine operator twisting	Twisting machine operator	51-6064
+machine operator twisting	Twisting machine operator	51-9199
+machine operator twisting	Twisting machine operator	53-7063
+machine setter	Machine setter	49-9044
+machine setter	Machine setter	51-4199
+machine setter	Machine setter	51-7042
+attendant floor	Floor attendant	39-3019
+attendant floor	Floor attendant	51-9199
+machinist master	Master machinist	49-9041
+machinist master	Master machinist	51-4041
+attendant gas station	Gas station attendant	41-1011
+attendant gas station	Gas station attendant	53-6031
+maintenance ns	Maintenance \ n.s.	37-2011
+maintenance ns	Maintenance \ n.s.	37-3011
+maintenance ns	Maintenance \ n.s.	37-3011
+maintenance ns	Maintenance \ n.s.	47-2061
+maintenance ns	Maintenance \ n.s.	49-2022
+maintenance ns	Maintenance \ n.s.	49-2097
+maintenance ns	Maintenance \ n.s.	49-9042
+maintenance ns superintendent	Maintenance superintendent \ n.s.	37-1011
+maintenance ns superintendent	Maintenance superintendent \ n.s.	49-1011
+maintenance ns supervisor	Supervisor, maintenance \ n.s.	47-1011
+maintenance ns supervisor	Supervisor, maintenance \ n.s.	49-1011
+maintenance supervisor utilities	Supervisor, maintenance and utilities	47-1011
+maintenance supervisor utilities	Supervisor, utilities and maintenance	49-1011
+maker mold ns	Mold maker \ n.s.	47-2031
+maker mold ns	Mold maker \ n.s.	51-4072
+maker mold ns	Mold maker \ n.s.	51-9195
+maker mold ns	Mold maker \ n.s.	51-9195
+maker pizza	Pizza maker	35-2011
+maker pizza	Pizza maker	51-3091
+maker sandwich	Sandwich maker	35-2021
+maker sandwich	Sandwich maker	51-3092
+man off take	Take-off man	39-3091
+man off take	Take-off man	53-7063
+man platform	Platform man	43-9199
+man platform	Platform man	47-5099
+man platform	Platform man	53-7062
+adjuster ns	Adjuster \ n.s.	13-2099
+adjuster ns	Adjuster \ n.s.	51-2093
+adjuster ns	Adjuster \ n.s.	51-9199
+attendant laundry	Laundry attendant	41-2021
+attendant laundry	Laundry attendant	53-7061
+man property	Property man	39-4021
+man property	Property man	53-7062
+man reel	Reel man	49-9052
+man reel	Reel man	51-9199
+man relay	Relay man	49-9051
+man relay	Relay man	53-3031
+man relief	Relief man	47-5099
+man relief	Relief man	51-2099
+man tar	Tar man	47-2061
+man tar	Tar man	51-9199
+man tar	Tar man	53-7062
+man tare	Tare man	43-5111
+man tare	Tare man	51-9199
+man test	Test man	47-2111
+man test	Test man	49-2022
+man transfer	Transfer man	11-3071
+man transfer	Transfer man	51-5022
+man transfer	Transfer man	53-3032
+man transfer	Transfer man	53-7199
+manager ns	Manager \ n.s.	11-3031
+manager ns	Manager \ n.s.	11-3049
+manager ns	Manager \ n.s.	11-9011
+manager ns	Manager \ n.s.	11-9012
+manager ns	Manager \ n.s.	11-9031
+manager ns	Manager \ n.s.	11-9032
+manager ns	Manager \ n.s.	11-9033
+manager ns	Manager \ n.s.	11-9051
+manager ns	Manager \ n.s.	11-9061
+manager ns	Manager \ n.s.	11-9071
+manager ns	Manager \ n.s.	11-9081
+manager ns	Manager \ n.s.	11-9111
+manager ns	Manager \ n.s.	11-9131
+manager ns	Manager \ n.s.	11-9141
+manager ns	Manager \ n.s.	11-9151
+manager ns	Manager \ n.s.	11-9199
+manager ns	Manager \ n.s.	11-9199
+manager ns	Manager \ n.s.	11-9199
+manager ns	Manager \ n.s.	13-1011
+manager ns	Manager \ n.s.	21-2021
+manager ns	Manager \ n.s.	33-1099
+manager ns	Manager \ n.s.	35-1012
+manager ns	Manager \ n.s.	39-1021
+manager ns	Manager \ n.s.	41-1011
+manager ns	Manager \ n.s.	41-1012
+manager ns	Manager \ n.s.	45-1011
+manager ns	Manager \ n.s.	51-6052
+attendant locker	Locker attendant	39-3093
+attendant locker	Locker attendant	53-7062
+manager production	Manager, production	11-3051
+manager production	Manager, production	11-9011
+manager production	Manager, production	27-2012
+manager production	Manager, production	51-1011
+manager rental	Manager, rental	11-9141
+manager rental	Manager, rental	41-1011
+manager sales	Manager, sales	11-2022
+manager sales	Manager, sales	41-1011
+manager sales	Manager, sales	41-1012
+manager service	Manager, service	37-1011
+manager service	Manager, service	41-1011
+manager service	Manager, service	49-1011
+manager shift	Manager, shift	11-9199
+manager shift	Manager, shift	35-1012
+manager shift	Manager, shift	41-1011
+manager shop	Manager, shop	39-1021
+manager shop	Manager, shop	41-1011
+manager shop	Manager, shop	41-1012
+attendant lunchroom	Lunchroom attendant	35-9011
+attendant lunchroom	Lunchroom attendant	39-9011
+manager station	Manager, station	11-3071
+manager station	Manager, station	11-9131
+manager station	Manager, station	11-9199
+manager station	Manager, station	41-1011
+manager store	Manager, store	35-1012
+manager store	Manager, store	41-1011
+manufacturer	Manufacturer	11-3051
+manufacturer	Manufacturer	11-9199
+manufacturer	Manufacturer	41-4012
+marbleizer	Marbleizer	47-2141
+marbleizer	Marbleizer	51-9121
+marine mechanic	Mechanic, marine	49-9041
+marine mechanic	Mechanic, marine	53-5031
+marker ns	Marker \ n.s.	43-5081
+marker ns	Marker \ n.s.	45-4023
+marker ns	Marker \ n.s.	51-5023
+marker ns	Marker \ n.s.	51-6011
+marker ns	Marker \ n.s.	51-9061
+marker ns	Marker \ n.s.	51-9083
+marker ns	Marker \ n.s.	51-9199
+attendant ns	Attendant \ n.s.	11-9051
+attendant ns	Attendant \ n.s.	25-4031
+attendant ns	Attendant \ n.s.	31-9091
+attendant ns	Attendant \ n.s.	35-9011
+attendant ns	Attendant \ n.s.	37-2011
+attendant ns	Attendant \ n.s.	39-3091
+attendant ns	Attendant \ n.s.	39-3091
+attendant ns	Attendant \ n.s.	39-4021
+attendant ns	Attendant \ n.s.	39-9011
+attendant ns	Attendant \ n.s.	39-9011
+attendant ns	Attendant \ n.s.	41-1011
+attendant ns	Attendant \ n.s.	41-2021
+attendant ns	Attendant \ n.s.	41-9091
+attendant ns	Attendant \ n.s.	43-9199
+attendant ns	Attendant \ n.s.	45-2093
+attendant ns	Attendant \ n.s.	53-6021
+attendant ns	Attendant \ n.s.	53-6031
+attendant ns	Attendant \ n.s.	53-7061
+attendant ns	Attendant \ n.s.	53-7062
+mate ns	Mate \ n.s.	33-2011
+mate ns	Mate \ n.s.	53-5021
+mate second	Second mate	45-3011
+mate second	Second mate	53-5021
+mate third	Third mate	45-3011
+mate third	Third mate	53-5021
+material scheduler	Material scheduler	17-2112
+material scheduler	Material scheduler	43-5061
+measurer	Measurer	43-5111
+measurer	Measurer	51-9061
+meat packer	Meat packer	51-3023
+meat packer	Meat packer	53-7064
+attendant ns service	Service attendant \ n.s.	51-9199
+attendant ns service	Service attendant \ n.s.	53-6031
+attendant ns service	Service attendant \ n.s.	53-7062
+mechanic ns	Mechanic \ n.s.	47-2073
+mechanic ns	Mechanic \ n.s.	47-2111
+mechanic ns	Mechanic \ n.s.	49-2011
+mechanic ns	Mechanic \ n.s.	49-2022
+mechanic ns	Mechanic \ n.s.	49-2097
+mechanic ns	Mechanic \ n.s.	49-3011
+mechanic ns	Mechanic \ n.s.	49-3023
+mechanic ns	Mechanic \ n.s.	49-3031
+mechanic ns	Mechanic \ n.s.	49-3041
+mechanic ns	Mechanic \ n.s.	49-3042
+mechanic ns	Mechanic \ n.s.	49-3043
+mechanic ns	Mechanic \ n.s.	49-9042
+mechanic ns	Mechanic \ n.s.	49-9051
+mechanic roller	Mechanic, roller	49-9041
+mechanic roller	Mechanic, roller	51-9194
+mechanic tool	Mechanic, tool	49-9041
+mechanic tool	Mechanic, tool	51-4111
+attendant ns station	Station attendant \ n.s.	39-6032
+attendant ns station	Station attendant \ n.s.	53-6031
+messenger ns	Messenger \ n.s.	33-9032
+messenger ns	Messenger \ n.s.	43-5021
+metal ornamental worker	Ornamental metal worker	47-2221
+metal ornamental worker	Ornamental metal worker	51-2041
+metal polisher	Metal polisher	37-2011
+metal polisher	Metal polisher	51-4033
+metal worker	Metal worker	47-2181
+metal worker	Metal worker	47-2211
+metal worker	Metal worker	47-2211
+metal worker	Metal worker	49-3021
+metal worker	Metal worker	51-4199
+meterman	Meterman	43-5041
+meterman	Meterman	49-9012
+attendant nursery	Nursery attendant	31-1012
+attendant nursery	Nursery attendant	39-9011
+milk sampler	Milk sampler	43-5111
+milk sampler	Milk sampler	45-2041
+milk tester	Milk tester	19-4011
+milk tester	Milk tester	45-2011
+milkman	Milkman	45-2093
+milkman	Milkman	53-3031
+mill operator sludge	Sludge mill operator	47-1011
+mill operator sludge	Sludge mill operator	51-9012
+mill sticker tandem	Tandem mill sticker	51-9199
+mill sticker tandem	Tandem mill sticker	53-7062
+attendant parking	Parking attendant	39-3091
+attendant parking	Parking attendant	53-6021
+mixer mortar	Mortar mixer	47-2061
+mixer mortar	Mortar mixer	51-9023
+mixer ns	Mixer \ n.s.	47-2061
+mixer ns	Mixer \ n.s.	51-3092
+mixer ns	Mixer \ n.s.	51-9023
+mixer ns paint	Paint mixer \ n.s.	41-2031
+mixer ns paint	Paint mixer \ n.s.	51-9023
+mixer operator	Mixer operator	27-4012
+mixer operator	Mixer operator	51-3092
+mixer operator	Mixer operator	51-9023
+mixer slip	Slip mixer	47-4099
+mixer slip	Slip mixer	51-9023
+mixer spray	Spray mixer	37-3012
+mixer spray	Spray mixer	51-9023
+mixer tender	Mixer tender	47-2061
+mixer tender	Mixer tender	51-3092
+mixer tender	Mixer tender	51-9023
+attendant sales	Sales, attendant	41-2031
+attendant sales	Sales, attendant	53-6031
+modeler	Modeler	47-2161
+modeler	Modeler	51-9195
+moisture tester	Moisture tester	19-4011
+moisture tester	Moisture tester	51-9061
+mold swabber	Mold swabber	51-9199
+mold swabber	Mold swabber	53-7062
+molder ns	Molder \ n.s.	47-2031
+molder ns	Molder \ n.s.	51-4072
+molder ns	Molder \ n.s.	51-6011
+molder ns	Molder \ n.s.	51-9195
+molder ns	Molder \ n.s.	51-9195
+molder ns	Molder \ n.s.	51-9195
+attendant stable	Stable attendant	39-2021
+attendant stable	Stable attendant	45-2093
+molder plaster	Molder, plaster	51-9195
+molder plaster	Plaster molder	47-2161
+molder plaster	Plaster molder	51-9195
+monitor playground	Monitor, playground	39-9011
+monitor playground	Playground monitor	33-9099
+mother superior	Mother superior	11-9032
+mother superior	Mother superior	21-2099
+motor tester	Motor tester	17-3027
+motor tester	Motor tester	49-3023
+motor tester	Motor tester	51-9061
+mounter tire	Tire mounter	49-3093
+mounter tire	Tire mounter	51-9197
+mover	Mover	49-9044
+mover	Mover	53-7062
+muck operator	Muck operator	47-2073
+muck operator	Muck operator	47-5099
+muck operator	Muck operator	53-7033
+adjuster relay	Relay adjuster	49-2022
+adjuster relay	Relay adjuster	51-2022
+attendant water	Water attendant	35-9011
+attendant water	Water attendant	53-7062
+mucker operator	Mucker operator	47-2073
+mucker operator	Mucker operator	47-5099
+mucker operator	Mucker operator	53-7033
+mule operator	Mule operator	51-6064
+mule operator	Mule operator	53-7051
+music supervisor	Supervisor, music	25-1121
+music supervisor	Supervisor, music	25-2021
+music supervisor	Supervisor, music	25-2031
+music supervisor	Supervisor, music	25-3021
+music supervisor	Supervisor, music	27-2041
+nailer ns	Nailer \ n.s.	47-2081
+nailer ns	Nailer \ n.s.	51-6042
+nailer ns	Nailer \ n.s.	51-7042
+necker	Necker	51-9041
+necker	Necker	53-7063
+newspaper stuffer	Newspaper stuffer	43-9199
+newspaper stuffer	Newspaper stuffer	53-7062
+notcher	Notcher	45-4029
+notcher	Notcher	51-4031
+nozzle operator	Nozzle operator	47-2061
+nozzle operator	Nozzle operator	51-4021
+nozzle operator	Nozzle operator	51-9041
+ns opener	Opener \ n.s.	13-2081
+ns opener	Opener \ n.s.	51-6011
+ns opener	Opener \ n.s.	51-9199
+audio specialist visual	Audio-visual specialist	25-9011
+audio specialist visual	Audio-visual specialist	27-3099
+ns packer	Packer \ n.s.	45-2092
+ns packer	Packer \ n.s.	51-9111
+ns packer	Packer \ n.s.	53-7064
+ns packer	Packer \ n.s.	53-7199
+ns painter	Painter \ n.s.	27-1013
+ns painter	Painter \ n.s.	47-2141
+ns painter	Painter \ n.s.	51-6042
+ns painter	Painter \ n.s.	51-9123
+ns patcher	Patcher \ n.s.	47-2021
+ns patcher	Patcher \ n.s.	51-6031
+ns patcher	Patcher \ n.s.	51-9061
+ns patcher	Patcher \ n.s.	51-9199
+ns patcher	Patcher \ n.s.	53-4021
+ns picker	Picker \ n.s.	45-2092
+ns picker	Picker \ n.s.	45-4029
+ns picker	Picker \ n.s.	51-6099
+ns picker	Picker \ n.s.	51-9199
+ns pilot	Pilot \ n.s.	45-3011
+ns pilot	Pilot \ n.s.	53-2012
+ns pilot	Pilot \ n.s.	53-4011
+ns pilot	Pilot \ n.s.	53-5021
+ns plater	Plater \ n.s.	39-2021
+ns plater	Plater \ n.s.	51-4193
+ns polisher	Polisher \ n.s.	51-4033
+ns polisher	Polisher \ n.s.	51-9021
+ns polisher	Polisher \ n.s.	51-9022
+ns polisher	Polisher \ n.s.	51-9083
+ns polisher	Polisher \ n.s.	53-7061
+ns porter	Porter \ n.s.	37-2011
+ns porter	Porter \ n.s.	39-6011
+ns porter	Porter \ n.s.	53-7061
+ns pourer	Pourer \ n.s.	47-2061
+ns pourer	Pourer \ n.s.	51-4052
+ns pourer	Pourer \ n.s.	53-7062
+ns production supervisor	Supervisor, production \ n.s.	27-2012
+ns production supervisor	Supervisor, production \ n.s.	47-1011
+ns racker	Racker \ n.s.	39-3091
+ns racker	Racker \ n.s.	51-9199
+ns racker	Racker \ n.s.	53-7063
+auto cover installer seat	Auto seat cover installer	49-3021
+auto cover installer seat	Auto seat cover installer	51-2099
+ns receiver	Receiver \ n.s.	11-9199
+ns receiver	Receiver \ n.s.	43-2099
+ns receiver	Receiver \ n.s.	43-5071
+ns registrar	Registrar \ n.s.	11-9033
+ns registrar	Registrar \ n.s.	11-9199
+ns registrar	Registrar \ n.s.	13-1079
+ns registrar	Registrar \ n.s.	43-4171
+ns registrar	Registrar \ n.s.	43-4171
+ns registrar	Registrar \ n.s.	43-4171
+ns registrar	Registrar \ n.s.	43-4199
+ns repairer	Repairer \ n.s.	49-9099
+ns repairer	Repairer \ n.s.	51-6031
+ns rigger	Rigger \ n.s.	49-9096
+ns rigger	Rigger \ n.s.	53-7041
+ns rodman	Rodman \ n.s.	17-3031
+ns rodman	Rodman \ n.s.	47-2171
+ns rodman	Rodman \ n.s.	51-4051
+ns rodman	Rodman \ n.s.	53-7041
+ns rodman	Rodman \ n.s.	53-7063
+ns runner	Runner \ n.s.	39-3012
+ns runner	Runner \ n.s.	43-5021
+ns runner	Runner \ n.s.	51-5022
+ns runner	Runner \ n.s.	51-9199
+ns runner	Runner \ n.s.	53-3033
+ns sales	Sales \ n.s.	41-1011
+ns sales	Sales \ n.s.	41-2011
+ns sales	Sales \ n.s.	41-2021
+ns sales	Sales \ n.s.	41-2022
+ns sales	Sales \ n.s.	41-2031
+ns sales	Sales \ n.s.	41-3011
+ns sales	Sales \ n.s.	41-3021
+ns sales	Sales \ n.s.	41-3031
+ns sales	Sales \ n.s.	41-3099
+ns sales	Sales \ n.s.	41-4011
+ns sales	Sales \ n.s.	41-4012
+ns sales	Sales \ n.s.	41-9022
+ns sales	Sales \ n.s.	41-9091
+ns sales	Sales \ n.s.	41-9099
+ns sales	Sales \ n.s.	41-9099
+ns sales	Sales \ n.s.	43-4181
+ns sales	Sales \ n.s.	53-3031
+ns sales	Sales \ n.s.	53-3031
+ns sales	Sales \ n.s.	53-6031
+ns sampler	Sampler \ n.s.	43-5111
+ns sampler	Sampler \ n.s.	51-6099
+ns sampler	Sampler \ n.s.	51-9061
+ns sampler	Sampler \ n.s.	53-7064
+ns sander	Sander \ n.s.	47-2073
+ns sander	Sander \ n.s.	49-9098
+ns sander	Sander \ n.s.	51-7042
+ns sander	Sander \ n.s.	51-9021
+ns sander	Sander \ n.s.	51-9022
+ns sanitation worker	Sanitation worker \ n.s.	37-2011
+ns sanitation worker	Sanitation worker \ n.s.	53-7061
+ns sanitation worker	Sanitation worker \ n.s.	53-7081
+auto cover installer slip	Auto slip cover installer	49-3021
+auto cover installer slip	Auto slip cover installer	51-2099
+ns servicer	Servicer \ n.s.	47-4071
+ns servicer	Servicer \ n.s.	53-6031
+ns setter	Setter \ n.s.	47-2021
+ns setter	Setter \ n.s.	51-9071
+ns setter	Setter \ n.s.	51-9199
+ns shooter trouble	Trouble shooter \ n.s.	49-2022
+ns shooter trouble	Trouble shooter \ n.s.	49-3011
+ns shooter trouble	Trouble shooter \ n.s.	49-3023
+ns shooter trouble	Trouble shooter \ n.s.	49-3043
+ns shooter trouble	Trouble shooter \ n.s.	49-9051
+ns shooter trouble	Trouble shooter \ n.s.	51-4041
+ns shooter trouble	Trouble shooter \ n.s.	51-9061
+ns shop supervisor	Supervisor, shop \ n.s.	39-1021
+ns shop supervisor	Supervisor, shop \ n.s.	49-1011
+ns shop supervisor	Supervisor, shop \ n.s.	51-1011
+ns skinner	Skinner \ n.s.	45-4029
+ns skinner	Skinner \ n.s.	51-9031
+ns sorter	Sorter \ n.s.	43-5053
+ns sorter	Sorter \ n.s.	43-5071
+ns sorter	Sorter \ n.s.	45-2041
+ns sorter	Sorter \ n.s.	51-6011
+ns sorter	Sorter \ n.s.	51-9061
+ns sorter	Sorter \ n.s.	53-7062
+auto installer top vinyl	Auto vinyl top installer	49-3021
+auto installer top vinyl	Auto vinyl top installer	51-2099
+ns spotter	Spotter \ n.s.	45-4029
+ns spotter	Spotter \ n.s.	51-6011
+ns spotter	Spotter \ n.s.	51-9061
+ns spotter	Spotter \ n.s.	51-9071
+ns spotter	Spotter \ n.s.	51-9083
+ns spotter	Spotter \ n.s.	51-9131
+ns sprayer	Sprayer \ n.s.	37-2021
+ns sprayer	Sprayer \ n.s.	37-3012
+ns sprayer	Sprayer \ n.s.	37-3012
+ns sprayer	Sprayer \ n.s.	47-2061
+ns sprayer	Sprayer \ n.s.	51-6011
+ns sprayer	Sprayer \ n.s.	51-9123
+ns stacker	Stacker \ n.s.	25-4031
+ns stacker	Stacker \ n.s.	53-7062
+ns staker	Staker \ n.s.	17-3031
+ns staker	Staker \ n.s.	51-2099
+ns staker	Staker \ n.s.	51-9199
+ns staker	Staker \ n.s.	53-7199
+ns steward stewardess	Steward/stewardess \ n.s.	27-2023
+ns steward stewardess	Steward/stewardess \ n.s.	35-1012
+ns steward stewardess	Steward/stewardess \ n.s.	39-6032
+ns storekeeper	Storekeeper \ n.s.	41-1011
+ns storekeeper	Storekeeper \ n.s.	43-5081
+ns stripper	Stripper \ n.s.	27-2031
+ns stripper	Stripper \ n.s.	47-5099
+ns stripper	Stripper \ n.s.	51-5022
+ns stripper	Stripper \ n.s.	51-6099
+ns stripper	Stripper \ n.s.	51-9012
+ns stripper	Stripper \ n.s.	51-9032
+ns stripper	Stripper \ n.s.	51-9123
+ns stripper	Stripper \ n.s.	51-9191
+ns stripper	Stripper \ n.s.	51-9199
+ns stripper	Stripper \ n.s.	53-7021
+ns stripper	Stripper \ n.s.	53-7063
+ns superintendent	Superintendent \ n.s.	11-1021
+ns superintendent	Superintendent \ n.s.	11-9021
+ns superintendent	Superintendent \ n.s.	11-9041
+ns superintendent	Superintendent \ n.s.	11-9111
+ns superintendent	Superintendent \ n.s.	11-9131
+ns superintendent	Superintendent \ n.s.	11-9141
+ns superintendent	Superintendent \ n.s.	21-2021
+ns superintendent	Superintendent \ n.s.	25-4021
+ns superintendent	Superintendent \ n.s.	33-1011
+ns superintendent	Superintendent \ n.s.	33-1012
+ns superintendent	Superintendent \ n.s.	33-1021
+ns superintendent	Superintendent \ n.s.	37-1012
+ns superintendent	Superintendent \ n.s.	45-1011
+ns superintendent	Superintendent \ n.s.	49-1011
+ns supervisor	Supervisor \ n.s.	11-9032
+ns supervisor	Supervisor \ n.s.	11-9033
+ns supervisor	Supervisor \ n.s.	11-9141
+ns supervisor	Supervisor \ n.s.	11-9199
+ns supervisor	Supervisor \ n.s.	21-1029
+ns supervisor	Supervisor \ n.s.	21-1099
+ns supervisor	Supervisor \ n.s.	21-2021
+ns supervisor	Supervisor \ n.s.	33-1011
+ns supervisor	Supervisor \ n.s.	33-1012
+ns supervisor	Supervisor \ n.s.	33-1021
+ns supervisor	Supervisor \ n.s.	35-1012
+ns supervisor	Supervisor \ n.s.	37-1011
+ns supervisor	Supervisor \ n.s.	37-1012
+ns supervisor	Supervisor \ n.s.	39-9032
+ns supervisor	Supervisor \ n.s.	41-1011
+ns supervisor	Supervisor \ n.s.	41-1012
+ns supervisor	Supervisor \ n.s.	43-1011
+ns supervisor	Supervisor \ n.s.	43-1011
+ns supervisor	Supervisor \ n.s.	45-1011
+ns supervisor	Supervisor \ n.s.	47-1011
+ns supervisor	Supervisor \ n.s.	49-1011
+ns supervisor	Supervisor \ n.s.	51-1011
+ns supervisor	Supervisor \ n.s.	53-1031
+ns supervisor track	Supervisor, track \ n.s.	47-1011
+ns supervisor track	Supervisor, track \ n.s.	53-1031
+ns supervisor yard	Supervisor, yard \ n.s.	43-1011
+ns supervisor yard	Supervisor, yard \ n.s.	53-1021
+ns supervisor yard	Supervisor, yard \ n.s.	53-4031
+ns surveyor	Surveyor \ n.s.	13-1031
+ns surveyor	Surveyor \ n.s.	13-1041
+ns surveyor	Surveyor \ n.s.	17-1022
+ns sweeper	Sweeper \ n.s.	37-2011
+ns sweeper	Sweeper \ n.s.	53-3099
+ns table worker	Table worker \ n.s.	51-9199
+ns table worker	Table worker \ n.s.	53-7063
+ns teacher	Teacher \ n.s.	21-2099
+ns teacher	Teacher \ n.s.	21-2099
+ns teacher	Teacher \ n.s.	25-1194
+ns teacher	Teacher \ n.s.	25-1199
+ns teacher	Teacher \ n.s.	25-2011
+ns teacher	Teacher \ n.s.	25-2021
+ns teacher	Teacher \ n.s.	25-2021
+ns teacher	Teacher \ n.s.	25-2031
+ns teacher	Teacher \ n.s.	25-2031
+ns teacher	Teacher \ n.s.	25-2032
+ns teacher	Teacher \ n.s.	25-3021
+ns teacher	Teacher \ n.s.	25-3099
+ns teacher	Teacher \ n.s.	27-2022
+ns teacher	Teacher \ n.s.	43-2011
+ns technician	Technician \ n.s.	17-3023
+ns technician	Technician \ n.s.	17-3029
+ns technician	Technician \ n.s.	19-4011
+ns technician	Technician \ n.s.	25-4031
+ns technician	Technician \ n.s.	29-2012
+ns technician	Technician \ n.s.	49-2021
+ns technician	Technician \ n.s.	49-2022
+ns technician	Technician \ n.s.	49-2097
+ns technician test	Technician, test \ n.s.	19-4011
+ns technician test	Technician, test \ n.s.	19-4041
+ns technician test	Technician, test \ n.s.	49-2022
+ns technician test	Technician, test \ n.s.	51-9061
+ns thresher	Thresher \ n.s.	45-2091
+ns thresher	Thresher \ n.s.	51-9012
+ns thresher	Thresher \ n.s.	51-9199
+ns tracer	Tracer \ n.s.	17-3019
+ns tracer	Tracer \ n.s.	43-9199
+ns tracer	Tracer \ n.s.	51-6042
+ns trimmer	Trimmer \ n.s.	27-1026
+ns trimmer	Trimmer \ n.s.	37-1012
+ns trimmer	Trimmer \ n.s.	37-1012
+ns trimmer	Trimmer \ n.s.	37-3013
+ns trimmer	Trimmer \ n.s.	37-3013
+ns trimmer	Trimmer \ n.s.	51-3022
+ns trimmer	Trimmer \ n.s.	51-6031
+ns trimmer	Trimmer \ n.s.	51-6093
+ns trimmer	Trimmer \ n.s.	51-6099
+ns trimmer	Trimmer \ n.s.	51-7041
+ns trimmer	Trimmer \ n.s.	51-9031
+ns trimmer	Trimmer \ n.s.	51-9031
+ns trimmer	Trimmer \ n.s.	51-9032
+ns trimmer	Trimmer \ n.s.	51-9199
+ns trimmer	Trimmer \ n.s.	53-7062
+ns washer	Washer \ n.s.	37-2011
+ns washer	Washer \ n.s.	45-2041
+ns washer	Washer \ n.s.	51-6011
+ns washer	Washer \ n.s.	51-6099
+ns washer	Washer \ n.s.	51-9012
+ns washer	Washer \ n.s.	51-9192
+ns washer	Washer \ n.s.	53-7061
+ns wirer	Wirer \ n.s.	47-2111
+ns wirer	Wirer \ n.s.	49-2022
+ns wirer	Wirer \ n.s.	49-2091
+ns wirer	Wirer \ n.s.	49-2093
+ns wirer	Wirer \ n.s.	49-2096
+ns wirer	Wirer \ n.s.	51-2022
+ns yardman	Yardman \ n.s.	37-3011
+ns yardman	Yardman \ n.s.	45-4029
+ns yardman	Yardman \ n.s.	47-5099
+ns yardman	Yardman \ n.s.	53-7062
+nursery supervisor	Supervisor, nursery	37-1012
+nursery supervisor	Supervisor, nursery	39-9011
+nursery supervisor	Supervisor, nursery	45-1011
+nursery worker	Nursery worker	11-9011
+nursery worker	Nursery worker	11-9012
+nursery worker	Nursery worker	45-2092
+nursery worker	Nursery worker	45-2092
+nursery worker	Nursery worker	45-4011
+nut sheller	Nut sheller	45-2092
+nut sheller	Nut sheller	51-9021
+observer	Observer	19-4041
+observer	Observer	19-4099
+observer	Observer	33-2022
+observer	Observer	43-2021
+observer	Observer	51-4051
+officer	Officer	13-1041
+officer	Officer	13-2072
+officer	Officer	13-2081
+officer	Officer	21-1099
+officer	Officer	33-3051
+officer	Officer	47-4011
+officer	Officer	53-5021
+officer property supply	Property and supply officer	11-3061
+officer property supply	Property and supply officer	43-3061
+account analyst	Account analyst	13-1031
+account analyst	Account analyst	43-3021
+adjustment clerk	Adjustment clerk	13-1031
+adjustment clerk	Adjustment clerk	43-4051
+officer second	Second officer	45-3011
+officer second	Second officer	53-5021
+official	Official	11-9031
+official	Official	11-9032
+official	Official	11-9033
+official	Official	11-9199
+official	Official	11-9199
+official	Official	13-2099
+official	Official	21-1099
+official	Official	21-2099
+official	Official	33-1099
+oil operator	Oil operator	11-1021
+oil operator	Oil operator	47-1011
+oil producer	Oil producer	11-1021
+oil producer	Oil producer	47-1011
+oil pumper	Oil pumper	51-8093
+oil pumper	Oil pumper	53-7072
+oil pumper	Oil pumper	53-7073
+oiler	Oiler	49-9043
+oiler	Oiler	53-5011
+operations supervisor	Supervisor, operations	11-1021
+operations supervisor	Supervisor, operations	51-1011
+operator pan	Pan operator	47-5099
+operator pan	Pan operator	51-9012
+operator perforator	Perforator operator	47-5031
+operator perforator	Perforator operator	51-4031
+operator picker	Picker operator	45-2091
+operator picker	Picker operator	51-6099
+automotive engineer	Engineer, automotive	17-2141
+automotive engineer	Engineer, automotive	49-3023
+operator polygraph	Polygraph operator	19-4092
+operator polygraph	Polygraph operator	51-4122
+operator projector	Projector operator	27-4011
+operator projector	Projector operator	39-3021
+operator ray x	X ray operator	17-3029
+operator ray x	X ray operator	29-2034
+operator ray x	X ray operator	29-2056
+operator roller	Roller operator	47-2071
+operator roller	Roller operator	51-6064
+operator roller	Roller operator	51-6099
+operator rooter	Rooter operator	47-2073
+operator rooter	Rooter operator	51-9199
+operator sandblast	Sandblast operator	47-2061
+operator sandblast	Sandblast operator	51-9021
+operator scale	Scale operator	43-5111
+operator scale	Scale operator	51-9061
+axman	Axman	45-4021
+axman	Axman	47-2061
+axman	Axman	47-3019
+operator signal	Signal operator	33-2011
+operator signal	Signal operator	33-3051
+operator signal	Signal operator	43-5032
+operator signal	Signal operator	53-4099
+operator skidder	Skidder operator	45-4029
+operator skidder	Skidder operator	53-7051
+operator spectrograph	Spectrograph operator	17-3029
+operator spectrograph	Spectrograph operator	19-4031
+operator supervisor switchboard	Supervisor, switchboard operator	43-1011
+operator supervisor switchboard	Supervisor, switchboard operator	51-1011
+operator switchboard	Switchboard operator	43-2011
+operator switchboard	Switchboard operator	51-8012
+operator switchboard	Switchboard operator	51-8091
+operator tower	Tower operator	43-5061
+operator tower	Tower operator	51-8091
+operator tower	Tower operator	53-4099
+back tender	Back tender	51-9051
+back tender	Back tender	51-9199
+back tender	Back tender	53-7063
+operator vibrator	Vibrator operator	47-2061
+operator vibrator	Vibrator operator	51-9032
+order runner	Order runner	43-5081
+order runner	Order runner	53-3033
+order taker	Order taker	35-3022
+order taker	Order taker	43-4151
+orderlies teacher	Teacher, orderlies	25-1071
+orderlies teacher	Teacher, orderlies	31-1012
+organizer	Organizer	21-1099
+organizer	Organizer	21-1099
+organizer	Organizer	41-3021
+owner	Owner	11-3031
+owner	Owner	11-9011
+owner	Owner	11-9011
+owner	Owner	11-9012
+owner	Owner	11-9012
+owner	Owner	11-9039
+owner	Owner	11-9051
+owner	Owner	11-9061
+owner	Owner	11-9081
+owner	Owner	11-9141
+owner	Owner	11-9151
+owner	Owner	11-9199
+owner	Owner	23-1011
+owner	Owner	29-1051
+owner	Owner	33-1099
+owner	Owner	37-1012
+owner	Owner	37-1012
+owner	Owner	39-1021
+owner	Owner	39-1021
+owner	Owner	39-1021
+owner	Owner	39-9011
+owner	Owner	39-9099
+owner	Owner	41-1011
+owner	Owner	41-1012
+owner	Owner	41-9091
+owner	Owner	49-9099
+owner	Owner	51-1011
+owner	Owner	51-6041
+owner	Owner	53-3032
+owner	Owner	53-3041
+package sorter	Package sorter	43-5071
+package sorter	Package sorter	53-7062
+packer shallot	Shallot packer	45-2092
+packer shallot	Shallot packer	53-7064
+page	Page	25-4031
+page	Page	39-6021
+page	Page	43-5021
+painter spray	Spray painter	47-2141
+painter spray	Spray painter	51-9123
+pan washer	Pan washer	35-9021
+pan washer	Pan washer	53-7061
+paperhanger	Paperhanger	47-2142
+paperhanger	Paperhanger	51-9199
+park supervisor worker	Supervisor, park worker	39-1021
+park supervisor worker	Supervisor, park worker	45-1011
+party planner	Party planner	13-1121
+party planner	Party planner	39-9099
+party planner	Party planner	41-9011
+patroller	Patroller	33-3052
+patroller	Patroller	51-9061
+patrolman	Patrolman	33-3051
+patrolman	Patrolman	33-9032
+patrolman	Patrolman	33-9032
+patrolman	Patrolman	49-9051
+patrolman	Patrolman	49-9052
+baggageman	Baggageman	39-6011
+baggageman	Baggageman	53-3033
+baggageman	Baggageman	53-7062
+paymaster	Paymaster	11-3031
+paymaster	Paymaster	43-3051
+paymaster purses	Paymaster of purses	41-2011
+paymaster purses	Paymaster of purses	43-3041
+peeler	Peeler	35-2021
+peeler	Peeler	45-4029
+peeler	Peeler	51-9032
+penman	Penman	27-2099
+penman	Penman	43-9199
+perforator	Perforator	47-5031
+perforator	Perforator	51-4031
+person safety	Safety person	29-9012
+person safety	Safety person	53-6051
+person vault	Vault person	43-4199
+person vault	Vault person	43-5071
+person vault	Vault person	51-6011
+person vault	Vault person	51-9199
+person vault	Vault person	53-7062
+bagger	Bagger	47-5099
+bagger	Bagger	51-9199
+bagger	Bagger	53-7062
+bagger	Bagger	53-7064
+picker poultry	Poultry picker	45-2093
+picker poultry	Poultry picker	51-9199
+picker turkey	Turkey picker	45-2093
+picker turkey	Turkey picker	51-9199
+pickler	Pickler	51-3092
+pickler	Pickler	51-9192
+pickler	Pickler	51-9199
+pickler	Pickler	53-7062
+pickler steel	Steel pickler	51-9199
+pickler steel	Steel pickler	53-7062
+piler	Piler	51-6099
+piler	Piler	53-7062
+pin puller	Pin puller	47-2061
+pin puller	Pin puller	49-9041
+pin setter	Pin setter	39-3091
+pin setter	Pin setter	49-9041
+pinner poultry	Poultry pinner	45-2093
+pinner poultry	Poultry pinner	51-9199
+pinner turkey	Turkey pinner	45-2093
+pinner turkey	Turkey pinner	51-9199
+pipe setter	Pipe setter	47-2152
+pipe setter	Pipe setter	51-9199
+pipeman	Pipeman	33-2011
+pipeman	Pipeman	47-2152
+pipeman	Pipeman	51-4199
+pipeman	Pipeman	53-7062
+piper	Piper	47-2152
+piper	Piper	51-6031
+piper	Piper	51-6042
+piper	Piper	51-6099
+pit supervisor	Supervisor, pit	39-1011
+pit supervisor	Supervisor, pit	47-1011
+pit supervisor	Supervisor, pit	51-1011
+pitcher	Pitcher	27-2021
+pitcher	Pitcher	53-7062
+pitman	Pitman	47-2061
+pitman	Pitman	51-9199
+pitman	Pitman	53-6031
+pitman	Pitman	53-7041
+placer	Placer	41-3021
+placer	Placer	51-9199
+placer	Placer	53-7063
+baker helper	Helper, baker	35-2021
+baker helper	Helper, baker	51-9198
+planner production	Production planner	17-2112
+planner production	Production planner	43-5061
+plant supervisor	Supervisor, plant	11-1021
+plant supervisor	Supervisor, plant	51-1011
+plateman	Plateman	47-5099
+plateman	Plateman	53-7061
+plowman	Plowman	45-2091
+plowman	Plowman	47-2061
+plugman	Plugman	33-2011
+plugman	Plugman	51-8021
+pole setter	Pole setter	45-2092
+pole setter	Pole setter	45-2093
+pole setter	Pole setter	47-2061
+poler	Poler	45-4029
+poler	Poler	51-4051
+poler	Poler	51-9199
+bakery worker	Bakery worker	51-3091
+bakery worker	Bakery worker	53-7063
+potter	Potter	45-2092
+potter	Potter	51-9195
+poultryman	Poultryman	11-9012
+poultryman	Poultryman	45-2093
+poultryman	Poultryman	51-3022
+powder worker	Powder worker	47-5031
+powder worker	Powder worker	51-9023
+press supervisor	Supervisor, press	45-1011
+press supervisor	Supervisor, press	51-1011
+baler	Baler	45-2091
+baler	Baler	51-9041
+pressure tester	Pressure tester	47-2011
+pressure tester	Pressure tester	51-9061
+pressure washer	Pressure washer	37-2019
+pressure washer	Pressure washer	47-4099
+prizer tobacco	Tobacco prizer	45-2092
+prizer tobacco	Tobacco prizer	53-7064
+produce wrapper	Produce wrapper	45-2092
+produce wrapper	Produce wrapper	45-2092
+produce wrapper	Produce wrapper	51-9111
+produce wrapper	Produce wrapper	53-7064
+baler cotton	Cotton baler	45-2091
+baler cotton	Cotton baler	53-7062
+producer	Producer	11-1021
+producer	Producer	27-2012
+producer	Producer	47-1011
+production superintendent	Production superintendent	11-3051
+production superintendent	Production superintendent	27-2012
+production superintendent	Production superintendent	47-1011
+production superintendent	Superintendent, production	11-3051
+production superintendent	Superintendent, production	45-1011
+program supervisor	Supervisor, program	11-9033
+program supervisor	Supervisor, program	27-2012
+projectionist	Projectionist	27-4011
+projectionist	Projectionist	39-3021
+puddler	Puddler	47-2061
+puddler	Puddler	51-4051
+puddler	Puddler	51-9023
+ball boy	Ball boy	39-3091
+ball boy	Ball boy	51-2099
+puffer	Puffer	47-5099
+puffer	Puffer	51-6011
+puffer	Puffer	51-9199
+puller	Puller	45-2099
+puller	Puller	51-6011
+puller	Puller	51-6099
+puller	Puller	53-7062
+puller rod	Rod puller	47-2061
+puller rod	Rod puller	53-7041
+puller wool	Wool puller	45-2041
+puller wool	Wool puller	51-9199
+pumper	Pumper	51-8093
+pumper	Pumper	53-7072
+pumper	Pumper	53-7073
+puncher	Puncher	51-4051
+puncher	Puncher	51-9199
+puncher	Puncher	53-7062
+purser	Purser	13-1199
+purser	Purser	39-6032
+pusher	Pusher	39-3091
+pusher	Pusher	41-9091
+pusher	Pusher	51-4191
+pusher	Pusher	51-4199
+pusher	Pusher	51-9199
+baller	Baller	45-2092
+baller	Baller	51-6064
+racehorse trainer	Racehorse trainer	27-2022
+racehorse trainer	Racehorse trainer	39-2011
+rackman	Rackman	51-9199
+rackman	Rackman	53-7199
+radio technician	Technician, radio	27-4012
+radio technician	Technician, radio	49-2021
+radio tester	Radio tester	49-2021
+radio tester	Radio tester	51-9061
+radiographer	Radiographer	19-4099
+radiographer	Radiographer	29-2031
+rag sorter	Rag sorter	51-9061
+rag sorter	Rag sorter	53-7062
+ragman	Ragman	51-9199
+ragman	Ragman	53-7062
+rail setter	Rail setter	47-2061
+rail setter	Rail setter	51-6099
+raker	Raker	45-4011
+raker	Raker	51-9199
+ray technician x	Technician, X ray	17-3029
+ray technician x	Technician, X ray	29-2034
+reader	Reader	21-2099
+reader	Reader	27-3041
+reader	Reader	43-9199
+reclamation supervisor	Supervisor, reclamation	47-1011
+reclamation supervisor	Supervisor, reclamation	49-1011
+reclamation supervisor	Supervisor, reclamation	51-1011
+reconditioner	Reconditioner	49-3023
+reconditioner	Reconditioner	51-1011
+reconditioner	Reconditioner	51-9061
+recorder	Recorder	11-9199
+recorder	Recorder	19-4041
+recorder	Recorder	43-5111
+recorder	Recorder	47-3019
+referee	Referee	23-1021
+referee	Referee	23-1021
+referee	Referee	27-2023
+refinisher	Refinisher	47-2031
+refinisher	Refinisher	51-7021
+regulator repairer valve water	Repairer, water regulator and valve	47-2152
+regulator repairer valve water	Repairer, water regulator and valve	49-9012
+religion teacher	Teacher, religion	21-2099
+religion teacher	Teacher, religion	25-1126
+religion teacher	Teacher, religion	25-2031
+repairer roller	Repairer, roller	49-9041
+repairer roller	Repairer, roller	51-9194
+band director	Band director	25-1121
+band director	Band director	25-2021
+band director	Band director	25-2031
+band director	Band director	27-2041
+reporter	Reporter	27-3022
+reporter	Reporter	27-3022
+reporter	Reporter	43-4199
+representative	Representative	11-1031
+representative	Representative	21-1099
+representative	Representative	41-3011
+representative	Representative	41-3021
+representative	Representative	41-3031
+representative	Representative	41-3099
+representative	Representative	41-4011
+representative	Representative	41-9091
+representative	Representative	43-4199
+representative service	Service representative	41-3021
+representative service	Service representative	41-3099
+representative service	Service representative	41-4011
+representative service	Service representative	43-4051
+reviewer	Reviewer	13-2053
+reviewer	Reviewer	13-2081
+reviewer	Reviewer	27-3041
+rider	Rider	45-2093
+rider	Rider	45-4029
+rider	Rider	53-4021
+rider	Rider	53-7199
+rig superintendent	Rig superintendent	47-1011
+rig superintendent	Superintendent, rig	53-1031
+rigger supervisor	Supervisor, rigger	49-1011
+rigger supervisor	Supervisor, rigger	53-1021
+riverman	Riverman	45-4029
+riverman	Riverman	53-5011
+roadman	Roadman	47-5099
+roadman	Roadman	53-3031
+rock splitter	Rock splitter	47-5051
+rock splitter	Rock splitter	51-9032
+bander hand	Bander, hand	51-9123
+bander hand	Bander, hand	53-7064
+rockman	Rockman	47-2061
+rockman	Rockman	47-5051
+rockman	Rockman	53-7063
+rod straightener	Rod straightener	51-9199
+rod straightener	Rod straightener	53-7062
+roller	Roller	45-3011
+roller	Roller	47-2053
+roller	Roller	51-2099
+roller	Roller	51-4023
+roller	Roller	51-9021
+roller	Roller	51-9041
+roller	Roller	51-9195
+roller	Roller	51-9199
+roller wheel	Wheel roller	51-9199
+roller wheel	Wheel roller	53-7062
+roundsman	Roundsman	33-9032
+roundsman	Roundsman	35-2014
+roustabout	Roustabout	47-2061
+roustabout	Roustabout	47-5071
+roustabout	Roustabout	53-5011
+roustabout	Roustabout	53-7062
+routeman	Routeman	49-9091
+routeman	Routeman	53-3031
+routeman	Routeman	53-3033
+rubber	Rubber	31-9011
+rubber	Rubber	51-9123
+rubber	Rubber	51-9123
+sacker	Sacker	45-2092
+sacker	Sacker	53-7062
+safety supervisor	Supervisor, safety	11-9199
+safety supervisor	Supervisor, safety	17-2111
+safety supervisor	Supervisor, safety	17-2151
+safety supervisor	Supervisor, safety	33-1012
+safety teacher	Teacher, safety	13-1079
+safety teacher	Teacher, safety	25-3021
+salvage worker	Salvage worker	51-9061
+salvage worker	Salvage worker	53-7062
+salvager	Salvager	49-9012
+salvager	Salvager	49-9043
+salvager	Salvager	51-9061
+sand screener	Sand screener	47-5099
+sand screener	Sand screener	53-7062
+sand shoveler	Sand shoveler	47-5099
+sand shoveler	Sand shoveler	53-7062
+sandblaster	Sandblaster	47-2061
+sandblaster	Sandblaster	51-9021
+sandblaster	Sandblaster	53-7061
+sanitarian	Sanitarian	29-9011
+sanitarian	Sanitarian	51-1011
+sawyer	Sawyer	51-3023
+sawyer	Sawyer	51-4031
+sawyer	Sawyer	51-7041
+sawyer	Sawyer	53-7063
+sawyer tie	Tie sawyer	45-4029
+sawyer tie	Tie sawyer	51-7041
+sawyer wood	Wood sawyer	45-4029
+sawyer wood	Wood sawyer	51-7041
+sawyer wood	Wood sawyer	53-7062
+scale tester	Scale tester	49-9069
+scale tester	Scale tester	51-9061
+scaler	Scaler	43-5111
+scaler	Scaler	45-4023
+scaler	Scaler	51-9199
+scaler	Scaler	53-5011
+scalloper	Scalloper	45-3011
+scalloper	Scalloper	51-6042
+scalloper	Scalloper	51-6062
+scalper	Scalper	41-9099
+scalper	Scalper	45-4029
+scalper	Scalper	51-4035
+scanner	Scanner	17-3029
+scanner	Scanner	51-5022
+scavenger	Scavenger	45-4029
+scavenger	Scavenger	53-7062
+scout	Scout	19-4041
+scout	Scout	27-2022
+scout	Scout	33-2022
+scrap sorter	Scrap sorter	51-9061
+scrap sorter	Scrap sorter	51-9199
+scrap sorter	Scrap sorter	53-7063
+scraper	Scraper	47-5099
+scraper	Scraper	53-7061
+screener	Screener	51-9012
+screener	Screener	51-9199
+screener	Screener	53-7062
+barker	Barker	27-3012
+barker	Barker	39-3091
+barker	Barker	45-4029
+barker	Barker	51-9199
+sealer	Sealer	43-9199
+sealer	Sealer	45-3021
+sealer	Sealer	51-9111
+sealer	Sealer	51-9191
+seaman	Seaman	45-3011
+seaman	Seaman	53-5011
+searcher	Searcher	23-2093
+searcher	Searcher	51-9199
+section supervisor	Supervisor, section	47-1011
+section supervisor	Supervisor, section	53-1021
+selector	Selector	51-9061
+selector	Selector	53-7062
+seller ticket	Ticket seller	41-2011
+seller ticket	Ticket seller	43-4181
+administrator salary wage	Salary and wage administrator	11-3041
+administrator salary wage	Salary and wage administrator	13-1072
+administrator salary wage	Wage and salary administrator	11-3041
+barrel cleaner	Barrel cleaner	51-9192
+barrel cleaner	Barrel cleaner	53-7061
+service supervisor	Supervisor, service	49-1011
+service supervisor	Supervisor, service	51-1011
+set up worker	Set up worker	49-3041
+set up worker	Set up worker	49-9041
+set up worker	Set up worker	51-4199
+set up worker	Set up worker	51-5022
+set up worker	Set up worker	51-7042
+setter stone	Stone setter	47-2022
+setter stone	Stone setter	51-9071
+setter tool	Tool setter	49-9041
+setter tool	Tool setter	51-4199
+sewer supervisor systems water	Supervisor, water and sewer systems	11-1021
+sewer supervisor systems water	Supervisor, water and sewer systems	47-1011
+barrel filler	Barrel filler	51-9111
+barrel filler	Barrel filler	53-7064
+shag	Shag	39-3091
+shag	Shag	53-6021
+shampooer	Shampooer	39-5093
+shampooer	Shampooer	51-6011
+shaver	Shaver	51-9199
+shaver	Shaver	53-7062
+sheet writer	Sheet writer	39-3012
+sheet writer	Sheet writer	43-5071
+shifter weight	Weight shifter	51-9199
+shifter weight	Weight shifter	53-7062
+shipper	Shipper	13-1021
+shipper	Shipper	43-5071
+barrel inspector	Inspector, barrel	13-1041
+barrel inspector	Inspector, barrel	51-9061
+shop worker	Shop worker	51-9199
+shop worker	Shop worker	53-6099
+shopper	Shopper	33-9099
+shopper	Shopper	41-9099
+shotblaster	Shotblaster	47-5031
+shotblaster	Shotblaster	51-9021
+shoveler	Shoveler	47-2061
+shoveler	Shoveler	53-7062
+sider	Sider	47-2031
+sider	Sider	51-3022
+signal supervisor	Supervisor, signal	43-1011
+signal supervisor	Supervisor, signal	47-1011
+signaler	Signaler	33-2011
+signaler	Signaler	45-4029
+signaler	Signaler	47-2061
+signaler	Signaler	47-5099
+signaler	Signaler	51-9199
+skiing teacher	Teacher, skiing	25-1193
+skiing teacher	Teacher, skiing	25-2031
+skiing teacher	Teacher, skiing	27-2022
+skip tender	Skip tender	47-2061
+skip tender	Skip tender	53-7199
+slab worker	Slab worker	51-9195
+slab worker	Slab worker	53-7063
+baseball coach	Baseball coach	25-2031
+baseball coach	Baseball coach	27-2022
+slipman	Slipman	47-2061
+slipman	Slipman	51-9199
+sloper	Sloper	47-4099
+sloper	Sloper	53-7041
+snapper	Snapper	51-9199
+snapper	Snapper	53-4021
+snubber	Snubber	45-4029
+snubber	Snubber	53-7062
+solicitor	Solicitor	21-1099
+solicitor	Solicitor	21-2099
+solicitor	Solicitor	23-1011
+solicitor	Solicitor	41-3011
+solicitor	Solicitor	41-3021
+solicitor	Solicitor	41-9041
+sorter stock	Stock sorter	43-5081
+sorter stock	Stock sorter	51-9061
+basketball coach	Basketball coach	25-2031
+basketball coach	Basketball coach	27-2022
+specialist	Specialist	13-2082
+specialist	Specialist	19-1013
+specialist	Specialist	39-5012
+spectrographer	Spectrographer	17-3029
+spectrographer	Spectrographer	19-4031
+spectroscopist	Spectroscopist	17-3029
+spectroscopist	Spectroscopist	19-4031
+splicer	Splicer	49-9051
+splicer	Splicer	49-9052
+splicer	Splicer	51-6063
+splicer	Splicer	51-9199
+splitter	Splitter	45-4029
+splitter	Splitter	51-7041
+spool tender	Spool tender	45-4029
+spool tender	Spool tender	51-6064
+spooner	Spooner	45-2093
+spooner	Spooner	51-9199
+sports teacher	Teacher, sports	25-1193
+sports teacher	Teacher, sports	25-2031
+sports teacher	Teacher, sports	27-2022
+spouter	Spouter	47-2211
+spouter	Spouter	51-9021
+spouter	Spouter	51-9021
+spreader	Spreader	51-9199
+spreader	Spreader	53-7062
+sprinkler	Sprinkler	47-5099
+sprinkler	Sprinkler	51-6011
+stainer	Stainer	47-2141
+stainer	Stainer	51-9123
+stainer	Stainer	51-9199
+starter	Starter	39-3091
+starter	Starter	43-5032
+starter	Starter	51-6099
+station worker	Station worker	51-9199
+station worker	Station worker	53-6031
+steam table worker	Steam table worker	35-3022
+steam table worker	Steam table worker	51-5023
+steamer	Steamer	51-3093
+steamer	Steamer	51-6021
+steamer	Steamer	51-6099
+steamer	Steamer	51-9192
+steamer	Steamer	53-7061
+stemmer tobacco	Tobacco stemmer	45-2092
+stemmer tobacco	Tobacco stemmer	51-9012
+sterilizer	Sterilizer	31-9093
+sterilizer	Sterilizer	51-9051
+sterilizer	Sterilizer	53-7061
+stickman	Stickman	39-3091
+stickman	Stickman	53-7063
+stippler	Stippler	47-2141
+stippler	Stippler	51-5023
+stock supervisor	Supervisor, stock	43-1011
+stock supervisor	Supervisor, stock	51-1011
+stock trader	Stock trader	13-1021
+stock trader	Stock trader	41-3031
+stocker	Stocker	43-5081
+stocker	Stocker	51-6042
+stockman	Stockman	11-9011
+stockman	Stockman	11-9012
+stockman	Stockman	43-5081
+stockman	Stockman	51-6042
+stockman	Stockman	51-9199
+stoneman	Stoneman	47-5099
+stoneman	Stoneman	51-5022
+stower	Stower	51-9199
+stower	Stower	53-7199
+street supervisor	Supervisor, street	11-9021
+street supervisor	Supervisor, street	47-1011
+striker	Striker	45-3011
+striker	Striker	51-9199
+striker	Striker	53-5031
+striker	Striker	53-7062
+stripper tobacco	Tobacco stripper	45-2092
+stripper tobacco	Tobacco stripper	51-9012
+stuffer	Stuffer	43-9199
+stuffer	Stuffer	51-9111
+stuffer	Stuffer	51-9199
+stuffer	Stuffer	53-7062
+stylist	Stylist	27-1022
+stylist	Stylist	39-5012
+superior	Superior	11-9032
+superior	Superior	21-2099
+supervisor technical	Supervisor, technical	17-2041
+supervisor technical	Supervisor, technical	19-4041
+supervisor technical	Supervisor, technical	49-1011
+supervisor traffic	Supervisor, traffic	11-3071
+supervisor traffic	Supervisor, traffic	33-1012
+batch mixer	Batch mixer	51-3092
+batch mixer	Batch mixer	51-9023
+batch mixer	Batch mixer	53-7063
+supervisor transportation	Supervisor, transportation	11-3071
+supervisor transportation	Supervisor, transportation	53-1031
+supervisor transportation	Supervisor, transportation	53-3021
+supervisor transportation	Supervisor, transportation	53-3041
+supervisor transportation	Supervisor, transportation	53-4031
+supervisor ward	Supervisor, ward	29-1111
+supervisor ward	Supervisor, ward	33-1011
+swabber	Swabber	47-5013
+swabber	Swabber	51-9199
+swamper	Swamper	45-4029
+swamper	Swamper	53-4021
+swimming teacher	Teacher, swimming	25-1193
+swimming teacher	Teacher, swimming	25-2031
+swimming teacher	Teacher, swimming	27-2022
+switchman	Switchman	49-2022
+switchman	Switchman	53-4021
+tabber	Tabber	43-9199
+tabber	Tabber	51-6099
+tabber	Tabber	53-7063
+tableman	Tableman	39-3091
+tableman	Tableman	53-4099
+tableman	Tableman	53-7063
+tailer	Tailer	47-5049
+tailer	Tailer	53-7063
+taker ticket	Ticket taker	39-3031
+taker ticket	Ticket taker	43-4181
+taker ticket	Ticket taker	43-9199
+tankman	Tankman	51-9041
+tankman	Tankman	53-6031
+battery charger	Battery charger	47-5099
+battery charger	Battery charger	53-6031
+battery charger	Battery charger	53-7062
+technician television	Technician, television	27-4012
+technician television	Technician, television	49-2097
+teller	Teller	41-2011
+teller	Teller	43-3071
+tender water	Water tender	51-9199
+tender water	Water tender	53-5011
+tender water	Water tender	53-7199
+tester	Tester	19-4011
+tester	Tester	19-4099
+tester	Tester	49-2022
+tester	Tester	51-9061
+tester transmission	Transmission tester	49-2022
+tester transmission	Transmission tester	51-9061
+tester ultrasonic	Ultrasonic tester	29-2032
+tester ultrasonic	Ultrasonic tester	51-9061
+thermodynamicist	Thermodynamicist	17-2011
+thermodynamicist	Thermodynamicist	19-2012
+thinner weed	Weed thinner	37-3011
+thinner weed	Weed thinner	45-2092
+ticketer	Ticketer	43-5081
+ticketer	Ticketer	51-5023
+timberman	Timberman	45-4029
+timberman	Timberman	47-2031
+timer	Timer	43-5061
+timer	Timer	51-9061
+timer	Timer	51-9131
+tinner	Tinner	47-2211
+tinner	Tinner	51-6099
+tinner	Tinner	51-9121
+toggler	Toggler	45-4029
+toggler	Toggler	51-9199
+tonger	Tonger	45-3011
+tonger	Tonger	45-4029
+tonger	Tonger	51-9199
+toolsmith	Toolsmith	49-9099
+toolsmith	Toolsmith	51-4111
+topper	Topper	45-4029
+topper	Topper	51-4051
+topper	Topper	51-6063
+tower watchman	Tower watchman	33-2022
+tower watchman	Tower watchman	53-4099
+towerman	Towerman	33-2022
+towerman	Towerman	43-5061
+towerman	Towerman	51-9199
+towerman	Towerman	53-4099
+track worker	Track worker	51-9199
+track worker	Track worker	53-7062
+trader	Trader	13-1021
+trader	Trader	41-3031
+trailer	Trailer	45-4029
+trailer	Trailer	53-4021
+tree trimmer	Tree trimmer	37-3013
+tree trimmer	Tree trimmer	45-4011
+tree trimmer	Tree trimmer	45-4029
+trimmer vegetable	Vegetable trimmer	45-2092
+trimmer vegetable	Vegetable trimmer	51-9031
+truckman	Truckman	33-2011
+truckman	Truckman	53-3032
+truckman	Truckman	53-7062
+truckman	Truckman	53-7199
+truer wheel	Wheel truer	49-9099
+truer wheel	Wheel truer	51-2099
+utility worker	Utility worker	37-2011
+utility worker	Utility worker	43-9061
+utility worker	Utility worker	47-5099
+utility worker	Utility worker	51-6011
+utility worker	Utility worker	51-9199
+utility worker	Utility worker	53-5011
+utility worker	Utility worker	53-6031
+utility worker	Utility worker	53-7199
+vendor	Vendor	41-9091
+vendor	Vendor	49-9091
+ventilation worker	Ventilation worker	47-2031
+ventilation worker	Ventilation worker	51-8021
+viticulturist	Viticulturist	11-9011
+viticulturist	Viticulturist	11-9012
+viticulturist	Viticulturist	19-1013
+wagoner	Wagoner	45-4029
+wagoner	Wagoner	47-5021
+wall washer	Wall washer	37-2011
+wall washer	Wall washer	47-2061
+washhouse worker	Washhouse worker	37-2011
+washhouse worker	Washhouse worker	51-9192
+wasteman	Wasteman	47-5099
+wasteman	Wasteman	53-7081
+bed maker	Bed maker	37-2012
+bed maker	Bed maker	51-2099
+watcher	Watcher	43-9199
+watcher	Watcher	51-6099
+weeder	Weeder	37-3011
+weeder	Weeder	45-2092
+weigher	Weigher	13-1041
+weigher	Weigher	43-5111
+weighmaster	Weighmaster	13-1041
+weighmaster	Weighmaster	43-5111
+weighter	Weighter	43-5111
+weighter	Weighter	51-6099
+wheeler	Wheeler	51-6042
+wheeler	Wheeler	53-7062
+wheeler	Wheeler	53-7199
+wheelman	Wheelman	51-9012
+wheelman	Wheelman	51-9199
+wheelman	Wheelman	53-5011
+beekeeper	Beekeeper	11-9011
+beekeeper	Beekeeper	11-9012
+beekeeper	Beekeeper	45-2093
+winder	Winder	27-4014
+winder	Winder	51-6064
+winder	Winder	51-9199
+winemaker	Winemaker	11-9199
+winemaker	Winemaker	51-9012
+wiper	Wiper	51-9123
+wiper	Wiper	51-9199
+wiper	Wiper	53-5011
+wiper	Wiper	53-7061
+woodworker	Woodworker	47-2031
+woodworker	Woodworker	51-2099
+woodworker	Woodworker	51-7011
+woodworker	Woodworker	51-7099
+worker	Worker	45-2092
+worker	Worker	45-2093
+worker	Worker	51-9199
+wrecker	Wrecker	11-9021
+wrecker	Wrecker	47-4099
+wrecker	Wrecker	53-7062
+admissions officer	Admissions officer	11-9033
+admissions officer	Admissions officer	43-1011
+beet topper	Beet topper	45-2092
+beet topper	Beet topper	51-9199
+beet worker	Beet worker	45-2092
+beet worker	Beet worker	51-9199
+bell ringer	Bell ringer	27-2042
+bell ringer	Bell ringer	41-9011
+bellman	Bellman	39-6011
+bellman	Bellman	47-2061
+bellman	Bellman	51-9199
+belt operator	Belt operator	47-5049
+belt operator	Belt operator	51-9061
+belt operator	Belt operator	51-9199
+belt operator	Belt operator	53-7011
+belt tender	Belt tender	51-9061
+belt tender	Belt tender	51-9199
+belt tender	Belt tender	53-7011
+belter	Belter	47-2061
+belter	Belter	51-9199
+beltman	Beltman	47-2061
+beltman	Beltman	49-9099
+beltman	Beltman	53-7011
+beveler	Beveler	47-2031
+beveler	Beveler	51-4031
+beveler	Beveler	51-9021
+beveler	Beveler	51-9083
+beveling machine operator	Beveling machine operator	51-9021
+beveling machine operator	Beveling machine operator	53-7063
+billet boy	Billet boy	51-9199
+billet boy	Billet boy	53-7062
+billet cutter	Billet cutter	45-4029
+billet cutter	Billet cutter	51-4031
+billet cutter	Billet cutter	51-7041
+billet straightener	Billet straightener	51-9199
+billet straightener	Billet straightener	53-7062
+advertising layout worker	Advertising layout worker	27-1024
+advertising layout worker	Advertising layout worker	51-5022
+blanket maker	Blanket maker	47-2132
+blanket maker	Blanket maker	51-2011
+blanket washer	Blanket washer	51-6011
+blanket washer	Blanket washer	53-7061
+adviser counselor girls worker	Girls' adviser, counselor or worker	21-1012
+adviser counselor girls worker	Girls' adviser, counselor or worker	21-1019
+adviser counselor girls worker	Girls' adviser, counselor or worker	39-9032
+blaster grit	Grit blaster	47-2061
+blaster grit	Grit blaster	51-9021
+blaster grit	Grit blaster	53-7061
+blocker car	Car blocker	47-5099
+blocker car	Car blocker	51-9199
+blow off worker	Blow off worker	51-9199
+blow off worker	Blow off worker	53-7061
+board boy	Board boy	43-9111
+board boy	Board boy	51-9199
+board control operator	Control board operator	43-1011
+board control operator	Control board operator	51-8012
+board control operator	Control board operator	51-8093
+board control operator	Control board operator	51-8099
+board control operator	Control board operator	51-9011
+board operator	Board operator	27-4012
+board operator	Board operator	43-9111
+boardman	Boardman	43-9199
+boardman	Boardman	49-2094
+boardman	Boardman	51-9061
+boat deckhand	Boat deckhand	45-3011
+boat deckhand	Boat deckhand	53-5011
+adviser ns	Adviser \ n.s.	21-1012
+adviser ns	Adviser \ n.s.	39-9032
+boat puller	Boat puller	45-3011
+boat puller	Boat puller	53-7041
+bog worker	Bog worker	45-2092
+bog worker	Bog worker	47-5099
+boilers control exc operator room	Control room operator, exc. boilers	27-4012
+boilers control exc operator room	Control room operator, exc. boilers	51-8012
+boilers control exc operator room	Control room operator, exc. boilers	51-9199
+boilers inspector	Inspector, boilers	47-4011
+boilers inspector	Inspector, boilers	51-9061
+bolt cutter	Bolt cutter	45-4029
+bolt cutter	Bolt cutter	51-4031
+bolt cutter	Bolt cutter	51-6062
+advisor field	Field advisor	11-3041
+advisor field	Field advisor	39-9032
+bolter	Bolter	47-2221
+bolter	Bolter	51-7041
+bolter	Bolter	51-9012
+bolter	Bolter	51-9199
+bone picker	Bone picker	47-5099
+bone picker	Bone picker	51-9061
+bone picker	Bone picker	51-9199
+booker	Booker	13-1011
+booker	Booker	51-9032
+booker	Booker	51-9199
+bookmaker	Bookmaker	39-3012
+bookmaker	Bookmaker	51-5012
+boom man	Boom man	45-4029
+boom man	Boom man	53-7063
+borer test	Test borer	47-5021
+borer test	Test borer	51-4032
+boring machine operator	Boring machine operator	47-5021
+boring machine operator	Boring machine operator	51-4032
+boring machine operator	Boring machine operator	51-7042
+boss farm	Farm boss	45-1011
+boss farm	Farm boss	47-1011
+boss gang	Gang boss	45-1011
+boss gang	Gang boss	47-1011
+boss gang	Gang boss	53-1021
+boss pit	Pit boss	39-1011
+boss pit	Pit boss	47-1011
+aerodynamicist	Aerodynamicist	17-2011
+aerodynamicist	Aerodynamicist	19-2012
+boss straw	Straw boss	45-4029
+boss straw	Straw boss	47-2061
+bottler	Bottler	45-2093
+bottler	Bottler	51-9111
+bottler milk	Milk bottler	45-2093
+bottler milk	Milk bottler	51-9111
+bottom liner	Bottom liner	47-2021
+bottom liner	Bottom liner	51-2099
+bottom maker	Bottom maker	45-4029
+bottom maker	Bottom maker	51-9199
+box boy	Box boy	51-2099
+box boy	Box boy	53-7062
+aerodynamicist physical	Physical aerodynamicist	17-2011
+aerodynamicist physical	Physical aerodynamicist	19-2012
+boxer	Boxer	27-2021
+boxer	Boxer	45-4011
+boxer	Boxer	53-7062
+boxer	Boxer	53-7064
+boy call girl	Call girl or boy	39-6011
+boy call girl	Call girl or boy	39-9099
+boy call girl	Call girl or boy	43-5021
+boy chore	Chore boy	37-2011
+boy chore	Chore boy	45-2092
+boy chore	Chore boy	45-2093
+boy chore	Chore boy	45-4029
+boy chore	Chore boy	51-9199
+boy curb	Curb boy	39-3091
+boy curb	Curb boy	53-6031
+boy errand girl	Errand boy or girl	43-5021
+boy errand girl	Errand boy or girl	53-3033
+boy galley	Galley boy	35-9099
+boy galley	Galley boy	51-5023
+boy rack	Rack boy	39-3091
+boy rack	Rack boy	51-9199
+brake operator	Brake operator	51-4031
+brake operator	Brake operator	53-4021
+brakeman ns	Brakeman \ n.s.	49-3023
+brakeman ns	Brakeman \ n.s.	53-4021
+branch manager	Manager, branch	11-3031
+branch manager	Manager, branch	11-9131
+branch manager	Manager, branch	41-1011
+brass polisher	Brass polisher	37-2011
+brass polisher	Brass polisher	51-4033
+breaker mold	Mold breaker	51-9199
+breaker mold	Mold breaker	53-7062
+breaker rock	Rock breaker	47-5051
+breaker rock	Rock breaker	51-9199
+breeder corn	Corn breeder	11-9011
+breeder corn	Corn breeder	11-9012
+breeder corn	Corn breeder	19-1013
+breeder corn hybrid	Hybrid corn breeder	11-9011
+breeder corn hybrid	Hybrid corn breeder	11-9012
+breeder corn hybrid	Hybrid corn breeder	19-1013
+breeder cotton	Cotton breeder	11-9011
+breeder cotton	Cotton breeder	11-9012
+breeder cotton	Cotton breeder	19-1013
+brick cleaner	Brick cleaner	47-3011
+brick cleaner	Brick cleaner	53-7061
+brick setter	Brick setter	47-2021
+brick setter	Brick setter	53-7199
+bridge maintainer	Bridge maintainer	47-2221
+bridge maintainer	Bridge maintainer	53-7062
+agent claim	Claim agent	13-1031
+agent claim	Claim agent	13-1199
+agent claim	Claim agent	43-4051
+bridgeman	Bridgeman	47-2221
+bridgeman	Bridgeman	53-6011
+broach setter	Broach setter	49-9041
+broach setter	Broach setter	51-4111
+broker	Broker	13-1011
+broker	Broker	41-3011
+broker	Broker	41-3021
+broker	Broker	41-3031
+broker	Broker	41-4012
+broker	Broker	41-9021
+broker cotton	Cotton broker	13-1021
+broker cotton	Cotton broker	41-3031
+broker grain	Grain broker	13-1021
+broker grain	Grain broker	41-3031
+agent commission livestock	Commission agent, livestock	41-4012
+agent commission livestock	Livestock commission agent	13-1021
+brush cutter	Brush cutter	37-3011
+brush cutter	Brush cutter	45-2092
+brush cutter	Brush cutter	45-2093
+brush cutter	Brush cutter	45-4029
+brush cutter	Brush cutter	47-2061
+brush painter	Brush painter	47-2141
+brush painter	Painter, brush	51-9123
+brusher	Brusher	45-4011
+brusher	Brusher	45-4029
+brusher	Brusher	51-6042
+brusher	Brusher	51-9123
+brusher	Brusher	51-9199
+budder	Budder	45-2092
+budder	Budder	51-6031
+builder	Builder	47-1011
+builder	Builder	51-9199
+agent compensation	Compensation agent	41-3021
+agent compensation	Compensation agent	43-4051
+builder car	Car builder	49-3043
+builder car	Car builder	51-2099
+builder chute	Chute builder	45-4029
+builder chute	Chute builder	47-2211
+builder fence	Fence builder	45-2093
+builder fence	Fence builder	47-4031
+builder form	Form builder	47-2031
+builder form	Form builder	51-4061
+builder rig	Rig builder	47-1011
+builder rig	Rig builder	49-9096
+account executive	Account executive	11-2011
+account executive	Account executive	41-3011
+account executive	Account executive	41-3021
+account executive	Account executive	41-3031
+account executive	Account executive	41-4012
+agent district	District agent	33-9021
+agent district	District agent	41-3021
+builder road	Road builder	45-4029
+builder road	Road builder	47-4051
+building consultant	Building consultant	17-1011
+building consultant	Building consultant	41-9022
+building engineer	Engineer, building	17-2051
+building engineer	Engineer, building	51-8021
+building supervisor	Supervisor, building	11-3071
+building supervisor	Supervisor, building	37-1011
+building supervisor	Supervisor, building	47-1011
+agent land	Land agent	11-9141
+agent land	Land agent	41-9022
+bulb packer	Bulb packer	45-2092
+bulb packer	Bulb packer	53-7064
+bull gang worker	Bull gang worker	45-4029
+bull gang worker	Bull gang worker	51-9199
+bulldozer operator	Bulldozer operator	47-2073
+bulldozer operator	Bulldozer operator	51-4022
+bumper	Bumper	49-3021
+bumper	Bumper	51-9199
+bumper metal	Metal bumper	49-3021
+bumper metal	Metal bumper	51-4199
+buncher	Buncher	45-2092
+buncher	Buncher	45-4029
+buncher	Buncher	51-9061
+buncher	Buncher	51-9199
+bundler ns	Bundler \ n.s.	45-2092
+bundler ns	Bundler \ n.s.	51-9196
+bundler ns	Bundler \ n.s.	51-9199
+bundler ns	Bundler \ n.s.	53-7062
+bundler ns	Bundler \ n.s.	53-7064
+agent ns	Agent \ n.s.	11-9199
+agent ns	Agent \ n.s.	13-1011
+agent ns	Agent \ n.s.	13-2061
+agent ns	Agent \ n.s.	25-9021
+agent ns	Agent \ n.s.	33-3021
+agent ns	Agent \ n.s.	41-1011
+agent ns	Agent \ n.s.	41-2031
+agent ns	Agent \ n.s.	41-3011
+agent ns	Agent \ n.s.	41-4012
+agent ns	Agent \ n.s.	41-9022
+agent ns	Agent \ n.s.	41-9091
+agent ns	Agent \ n.s.	43-3011
+agent ns	Agent \ n.s.	43-4181
+burner operator	Burner operator	47-4099
+burner operator	Burner operator	51-9011
+burner weed	Weed burner	37-3011
+burner weed	Weed burner	45-2092
+business manager	Manager, business	11-9033
+business manager	Manager, business	13-1011
+business representative	Business representative	21-1099
+business representative	Business representative	41-3099
+buyer	Buyer	13-1021
+buyer	Buyer	13-1021
+buyer	Buyer	13-1022
+buyer	Buyer	13-1022
+buyer	Buyer	13-1023
+buyer	Buyer	41-3031
+cabinetmaker	Cabinetmaker	47-2031
+cabinetmaker	Cabinetmaker	51-2099
+cabinetmaker	Cabinetmaker	51-7011
+cable engineer	Engineer, cable	17-2071
+cable engineer	Engineer, cable	47-2073
+cable operator	Cable operator	43-9022
+cable operator	Cable operator	53-7041
+cable puller	Cable puller	45-4029
+cable puller	Cable puller	53-7062
+caddy	Caddy	39-3091
+caddy	Caddy	53-7062
+cadet	Cadet	33-3051
+cadet	Cadet	53-5011
+cake wrapper	Cake wrapper	51-9199
+cake wrapper	Cake wrapper	53-7064
+agent operations	Operations agent	13-1041
+agent operations	Operations agent	43-5061
+agent operations	Operations agent	53-6051
+agent operations	Operations agent	53-6051
+calker	Calker	47-2141
+calker	Calker	51-9199
+caller	Caller	39-3091
+caller	Caller	43-5021
+camp tender	Camp tender	37-2011
+camp tender	Camp tender	45-1011
+campaign director	Campaign director	11-2011
+campaign director	Campaign director	13-1199
+agent special	Special agent	13-2081
+agent special	Special agent	33-3021
+agent special	Special agent	33-3052
+canteen manager	Manager, canteen	35-1012
+canteen manager	Manager, canteen	41-1011
+canvasser	Canvasser	41-9091
+canvasser	Canvasser	43-4111
+captain ns	Captain \ n.s.	21-1012
+captain ns	Captain \ n.s.	33-1012
+captain ns	Captain \ n.s.	33-1021
+captain ns	Captain \ n.s.	35-1012
+captain ns	Captain \ n.s.	45-3011
+captain ns	Captain \ n.s.	53-2012
+captain ns	Captain \ n.s.	53-5021
+car dispatcher	Car dispatcher	43-5032
+car dispatcher	Car dispatcher	53-4031
+car distributor	Car distributor	43-5032
+car distributor	Car distributor	53-4031
+car greaser	Car greaser	49-9043
+car greaser	Car greaser	53-6031
+agent tax	Tax agent	13-2081
+agent tax	Tax agent	23-1011
+car hop	Car hop	35-3031
+car hop	Car hop	51-9199
+car hop	Car hop	53-6021
+car hop	Car hop	53-7062
+car lubricator	Car lubricator	49-9043
+car lubricator	Car lubricator	53-6031
+car pincher	Car pincher	51-9199
+car pincher	Car pincher	53-7111
+car runner	Car runner	47-2073
+car runner	Car runner	53-4021
+car runner	Car runner	53-6021
+car runner	Car runner	53-7199
+caretaker ns	Caretaker \ n.s.	37-2011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	37-3011
+caretaker ns	Caretaker \ n.s.	39-2021
+caretaker ns	Caretaker \ n.s.	39-2021
+caretaker ns	Caretaker \ n.s.	45-2092
+caretaker ns	Caretaker \ n.s.	49-9099
+cargo supervisor	Supervisor, cargo	43-1011
+cargo supervisor	Supervisor, cargo	53-1031
+carman	Carman	47-5099
+carman	Carman	49-3043
+carpet cleaner	Carpet cleaner	37-2011
+carpet cleaner	Carpet cleaner	51-6011
+carpet cleaner	Carpet cleaner	51-6099
+carrier	Carrier	41-9091
+carrier	Carrier	43-5052
+carrier	Carrier	45-4029
+carrier	Carrier	53-7199
+agent ticket	Ticket agent	41-2011
+agent ticket	Ticket agent	41-2011
+agent ticket	Ticket agent	43-4181
+agent ticket	Ticket agent	43-4181
+carrier driver	Carrier driver	43-5052
+carrier driver	Carrier driver	45-4029
+carrier driver	Carrier driver	53-3032
+carrier driver	Carrier driver	53-7051
+carrier flask	Flask carrier	51-9199
+carrier flask	Flask carrier	53-7062
+carrier iron	Iron carrier	51-9199
+carrier iron	Iron carrier	53-7062
+carrier log operator	Log carrier operator	45-4022
+carrier log operator	Log carrier operator	53-7051
+carrier lumber operator	Lumber carrier operator	45-4022
+carrier lumber operator	Lumber carrier operator	53-7051
+carrier mail	Mail carrier	43-5021
+carrier mail	Mail carrier	43-5052
+carrier mail	Mail carrier	53-3032
+carrier pattern	Pattern carrier	51-9199
+carrier pattern	Pattern carrier	53-7062
+carrier route	Route carrier	41-9091
+carrier route	Route carrier	43-5052
+carrier water	Water carrier	35-9011
+carrier water	Water carrier	53-7062
+account manager	Manager, account	11-3031
+account manager	Manager, account	43-4051
+caser	Caser	47-5099
+caser	Caser	49-9064
+caser	Caser	51-5011
+caser	Caser	53-7064
+cashier head	Head cashier	41-2011
+cashier head	Head cashier	43-1011
+cashier ns	Cashier \ n.s.	41-2011
+cashier ns	Cashier \ n.s.	41-2012
+cashier ns	Cashier \ n.s.	43-3071
+cashier salesperson	Cashier and salesperson	41-2011
+cashier salesperson	Cashier and salesperson	41-2031
+cashier salesperson	Cashier and salesperson	43-3041
+cashiers supervisor	Supervisor, cashiers	41-1011
+cashiers supervisor	Supervisor, cashiers	43-1011
+casing puller	Casing puller	51-2099
+casing puller	Casing puller	53-7041
+caster	Caster	31-9099
+caster	Caster	51-4052
+caster	Caster	51-4072
+caster	Caster	51-9071
+caster	Caster	51-9195
+cataloguer	Cataloguer	25-4021
+cataloguer	Cataloguer	43-9199
+catcher	Catcher	45-4029
+catcher	Catcher	51-6011
+catcher	Catcher	51-9061
+catcher	Catcher	53-7063
+catcher chicken	Chicken catcher	45-2093
+catcher chicken	Chicken catcher	51-9199
+cathead operator	Cathead operator	47-5071
+cathead operator	Cathead operator	53-7021
+cattle feeder	Cattle feeder	11-9011
+cattle feeder	Cattle feeder	11-9012
+cattle feeder	Cattle feeder	45-2093
+cattleman	Cattleman	11-9011
+cattleman	Cattleman	11-9012
+cattleman	Cattleman	13-1021
+celery cutter	Celery cutter	45-2092
+celery cutter	Celery cutter	51-9032
+cement mixer	Cement mixer	47-2061
+cement mixer	Cement mixer	47-3019
+cement mixer	Cement mixer	51-9023
+cementer ns	Cementer \ n.s.	47-2051
+cementer ns	Cementer \ n.s.	47-5099
+cementer ns	Cementer \ n.s.	51-6042
+cementer ns	Cementer \ n.s.	51-9191
+central supervisor supply technician	Supervisor, central supply technician	43-1011
+central supervisor supply technician	Technician, supervisor, central supply	29-2099
+chain hooker	Chain hooker	45-4029
+chain hooker	Chain hooker	53-7199
+chain maker	Chain maker	49-9099
+chain maker	Chain maker	51-9071
+chain puller	Chain puller	45-4029
+chain puller	Chain puller	51-9199
+chainer	Chainer	45-4029
+chainer	Chainer	51-6099
+chainer	Chainer	53-7062
+chainman	Chainman	17-3031
+chainman	Chainman	45-4029
+chainman	Chainman	51-4199
+chainman	Chainman	51-9199
+chainman	Chainman	53-7063
+chancellor	Chancellor	11-1011
+chancellor	Chancellor	21-2011
+aid hearing technician	Technician, hearing aid	29-2099
+aid hearing technician	Technician, hearing aid	49-9062
+chancellor vice	Vice chancellor	11-1011
+chancellor vice	Vice chancellor	21-2021
+changer jacket	Jacket changer	51-9199
+changer jacket	Jacket changer	53-7062
+channeling machine operator	Channeling machine operator	47-5042
+channeling machine operator	Channeling machine operator	51-6042
+charge operator	Charge operator	43-2021
+charge operator	Charge operator	51-4051
+charger	Charger	47-5031
+charger	Charger	51-4191
+charger	Charger	51-9123
+charter	Charter	43-9199
+charter	Charter	51-9199
+aide children s	Children's aide	21-1093
+aide children s	Children's aide	39-9011
+chaser	Chaser	43-3011
+chaser	Chaser	45-4029
+chaser	Chaser	51-4034
+chaser	Chaser	51-9071
+chaser crane	Crane chaser	45-4029
+chaser crane	Crane chaser	53-7199
+chauffeur	Chauffeur	33-3051
+chauffeur	Chauffeur	53-3041
+check clerk out	Check out clerk	41-2011
+check clerk out	Check out clerk	41-2021
+check clerk out	Check out clerk	43-3031
+check examiner	Check examiner	13-1031
+check examiner	Check examiner	43-9199
+check weigher	Check weigher	43-5111
+check weigher	Check weigher	51-9061
+checker linen	Checker, linen	43-5111
+checker linen	Linen checker	43-5111
+checker linen	Linen checker	51-9061
+checker load	Load checker	43-5111
+checker load	Load checker	51-9061
+aide clerical	Clerical aide	21-1093
+aide clerical	Clerical aide	43-9061
+checker ns	Checker \ n.s.	13-1031
+checker ns	Checker \ n.s.	41-2011
+checker ns	Checker \ n.s.	43-5111
+checker ns	Checker \ n.s.	51-9061
+checker ns	Checker \ n.s.	51-9131
+checker stock	Stock checker	43-5081
+checker stock	Stock checker	51-7099
+chef pastry	Pastry chef	35-1011
+chef pastry	Pastry chef	51-3011
+aide computer	Computer aide	25-9041
+aide computer	Computer aide	43-9021
+chicken dresser	Chicken dresser	45-2093
+chicken dresser	Chicken dresser	51-3022
+chicken picker	Chicken picker	45-2093
+chicken picker	Chicken picker	51-9199
+chief clerk ns	Chief clerk \ n.s.	11-9199
+chief clerk ns	Chief clerk \ n.s.	43-1011
+chief crew ns	Crew chief \ n.s.	49-1011
+chief crew ns	Crew chief \ n.s.	51-1011
+chief engineer ns	Engineer, chief \ n.s.	11-9041
+chief engineer ns	Engineer, chief \ n.s.	17-2011
+chief engineer ns	Engineer, chief \ n.s.	33-1021
+chief engineer ns	Engineer, chief \ n.s.	53-5031
+chief operator	Chief operator	43-1011
+chief operator	Chief operator	51-8091
+chipper	Chipper	47-2141
+chipper	Chipper	51-7042
+chipper	Chipper	51-9022
+choir director	Choir director	25-1121
+choir director	Choir director	25-2031
+choir director	Choir director	27-2041
+chopper	Chopper	45-2092
+chopper	Chopper	45-2093
+chopper	Chopper	45-4011
+chopper	Chopper	45-4029
+chopper	Chopper	51-9032
+chopper	Chopper	51-9199
+chopper	Chopper	53-7062
+chopper operator	Chopper operator	45-2091
+chopper operator	Chopper operator	53-2012
+chopper wood	Wood chopper	45-4029
+chopper wood	Wood chopper	51-7042
+chopper wood	Wood chopper	53-7062
+chore man	Chore man	37-2011
+chore man	Chore man	45-2092
+chore man	Chore man	45-2093
+chore man	Chore man	51-9199
+chute feeder	Chute feeder	45-4029
+chute feeder	Chute feeder	53-7063
+chute operator	Chute operator	47-5099
+chute operator	Chute operator	53-7041
+chute tender	Chute tender	45-4029
+chute tender	Chute tender	51-9199
+cinematographer	Cinematographer	27-4031
+cinematographer	Cinematographer	39-3021
+circulation manager	Manager, circulation	11-2011
+circulation manager	Manager, circulation	25-4021
+city clerk	City clerk	11-9199
+city clerk	City clerk	43-5051
+claim inspector	Inspector, claim	13-1031
+claim inspector	Inspector, claim	43-9199
+claim processor	Claim processor	13-1031
+claim processor	Claim processor	43-4051
+claim representative	Claim representative	13-1031
+claim representative	Claim representative	43-4051
+claim representative	Claim representative	43-4061
+clam picker	Clam picker	45-3011
+clam picker	Clam picker	51-9199
+clam sorter	Clam sorter	45-3011
+clam sorter	Clam sorter	51-9199
+aide lunchroom	Lunchroom aide	35-9011
+aide lunchroom	Lunchroom aide	39-9011
+classer tobacco	Tobacco classer	45-2011
+classer tobacco	Tobacco classer	51-9061
+classifier	Classifier	25-4021
+classifier	Classifier	43-3031
+classifier	Classifier	51-6011
+classifier	Classifier	51-9061
+cleaner coach	Coach cleaner	37-2011
+cleaner coach	Coach cleaner	53-7061
+cleaner ditch	Ditch cleaner	45-2092
+cleaner ditch	Ditch cleaner	45-2093
+cleaner ditch	Ditch cleaner	53-7062
+cleaner equipment laboratory	Cleaner, laboratory equipment	31-9093
+cleaner equipment laboratory	Cleaner, laboratory equipment	53-7061
+cleaner glass	Glass cleaner	51-9192
+cleaner glass	Glass cleaner	53-7061
+aide ns	Aide \ n.s.	17-3029
+aide ns	Aide \ n.s.	17-3031
+aide ns	Aide \ n.s.	31-1012
+aide ns	Aide \ n.s.	31-9091
+aide ns	Aide \ n.s.	39-9011
+aide ns	Aide \ n.s.	39-9011
+aide ns	Aide \ n.s.	39-9021
+cleaner marble	Marble cleaner	37-2011
+cleaner marble	Marble cleaner	51-9192
+cleaner ns	Cleaner \ n.s.	37-2011
+cleaner ns	Cleaner \ n.s.	37-2012
+cleaner ns	Cleaner \ n.s.	47-2061
+cleaner ns	Cleaner \ n.s.	51-6011
+cleaner ns	Cleaner \ n.s.	53-7061
+cleaner pan	Pan cleaner	35-9021
+cleaner pan	Pan cleaner	53-7061
+cleaner poultry	Poultry cleaner	45-2093
+cleaner poultry	Poultry cleaner	51-9199
+cleaner silverware	Silverware cleaner	35-9021
+cleaner silverware	Silverware cleaner	51-4033
+cleaner stable	Stable cleaner	39-2021
+cleaner stable	Stable cleaner	45-2093
+cleaner steam	Steam cleaner	51-6011
+cleaner steam	Steam cleaner	53-7061
+aide nutrition	Nutrition aide	31-9099
+aide nutrition	Nutrition aide	39-9021
+cleaner wall	Cleaner, wall	37-2011
+cleaner wall	Wall cleaner	37-2011
+cleaner wall	Wall cleaner	47-2061
+cleaner wallpaper	Wallpaper cleaner	37-2011
+cleaner wallpaper	Wallpaper cleaner	47-2061
+cleaning supervisor	Supervisor, cleaning	37-1011
+cleaning supervisor	Supervisor, cleaning	51-1011
+cleaning supervisor tank	Supervisor, tank cleaning	51-1011
+cleaning supervisor tank	Supervisor, tank cleaning	53-1021
+clearer land	Land clearer	45-2092
+clearer land	Land clearer	45-2093
+clearer land	Land clearer	47-2061
+clerical grader	Grader, clerical	25-9041
+clerical grader	Grader, clerical	43-9199
+clerk counter ns	Counter clerk \ n.s.	35-3022
+clerk counter ns	Counter clerk \ n.s.	41-2021
+clerk counter ns	Counter clerk \ n.s.	41-2022
+clerk counter ns	Counter clerk \ n.s.	43-5051
+clerk court	Clerk of court	11-9199
+clerk court	Court clerk	43-4031
+clerk customers on waiting	Clerk, waiting on customers	35-3022
+clerk customers on waiting	Clerk, waiting on customers	41-2021
+clerk desk front ns	Front desk clerk \ n.s.	39-3091
+clerk desk front ns	Front desk clerk \ n.s.	43-4081
+clerk desk front ns	Front desk clerk \ n.s.	43-4171
+clerk desk ns	Desk clerk \ n.s.	39-3091
+clerk desk ns	Desk clerk \ n.s.	43-4081
+clerk desk ns	Desk clerk \ n.s.	43-9061
+clerk disbursement	Disbursement clerk	41-2011
+clerk disbursement	Disbursement clerk	43-4131
+clerk exchange	Exchange clerk	41-2021
+clerk exchange	Exchange clerk	43-3071
+clerk floor	Floor clerk	41-2031
+clerk floor	Floor clerk	43-4081
+clerk floor	Floor clerk	43-9061
+clerk laundry pricing	Laundry pricing clerk	41-2021
+clerk laundry pricing	Laundry pricing clerk	43-3021
+clerk measuring	Measuring clerk	43-5111
+clerk measuring	Measuring clerk	51-6011
+clerk ns	Clerk \ n.s.	39-3091
+clerk ns	Clerk \ n.s.	41-2021
+clerk ns	Clerk \ n.s.	41-2031
+clerk ns	Clerk \ n.s.	43-4121
+clerk ns	Clerk \ n.s.	43-4151
+clerk ns	Clerk \ n.s.	43-5051
+clerk ns	Clerk \ n.s.	43-9061
+clerk ns	Clerk \ n.s.	53-7062
+clerk ns store	Store clerk \ n.s.	41-2031
+clerk ns store	Store clerk \ n.s.	43-5081
+clerk parts	Parts clerk	41-2022
+clerk parts	Parts clerk	43-5081
+clerk repair	Repair clerk	41-2021
+clerk repair	Repair clerk	43-5061
+clerk ticket	Ticket clerk	41-2011
+clerk ticket	Ticket clerk	41-2011
+clerk ticket	Ticket clerk	43-4181
+clerk ticket	Ticket clerk	43-4181
+clerk window	Window clerk	35-3022
+clerk window	Window clerk	43-5051
+clerks desk ns supervisor	Supervisor, desk clerks \ n.s.	41-1012
+clerks desk ns supervisor	Supervisor, desk clerks \ n.s.	43-1011
+climber	Climber	37-3013
+climber	Climber	45-4029
+climber	Climber	49-9051
+climber	Climber	49-9052
+clipper ns	Clipper \ n.s.	43-9199
+clipper ns	Clipper \ n.s.	45-4029
+clipper ns	Clipper \ n.s.	51-6062
+clipper ns	Clipper \ n.s.	51-9032
+clock inspector time	Inspector, time clock	49-9064
+clock inspector time	Inspector, time clock	51-9061
+clocker	Clocker	27-2021
+clocker	Clocker	51-6031
+clothier	Clothier	11-2022
+clothier	Clothier	41-2031
+clothier	Clothier	41-4012
+clothier	Clothier	51-6099
+coach tennis	Tennis coach	25-2031
+coach tennis	Tennis coach	27-2022
+coal loader	Coal loader	47-5099
+coal loader	Coal loader	53-7062
+coin collector	Coin collector	25-4012
+coin collector	Coin collector	41-9099
+coin collector	Coin collector	49-9091
+acid tester	Acid tester	19-4041
+acid tester	Acid tester	51-9061
+collating machine operator	Collating machine operator	43-9071
+collating machine operator	Collating machine operator	51-5023
+collator operator	Collator operator	43-9071
+collator operator	Collator operator	51-5023
+collections manager	Manager, collections	11-3031
+collections manager	Manager, collections	25-4012
+collector	Collector	13-2081
+collector	Collector	41-2011
+collector	Collector	41-9011
+collector	Collector	41-9099
+collector	Collector	43-3011
+collector	Collector	43-5052
+collector	Collector	49-9091
+collector	Collector	53-7081
+collector	Collector	53-7199
+collector ticket	Ticket collector	39-3031
+collector ticket	Ticket collector	53-4031
+color consultant	Color consultant	19-4031
+color consultant	Color consultant	27-1021
+color matcher	Color matcher	19-4031
+color matcher	Color matcher	51-3092
+color matcher	Color matcher	51-6011
+color matcher	Color matcher	51-6061
+color tester	Color tester	19-4031
+color tester	Color tester	51-9061
+colorer ns	Colorer \ n.s.	27-1019
+colorer ns	Colorer \ n.s.	51-3092
+colorer ns	Colorer \ n.s.	51-6061
+colorer ns	Colorer \ n.s.	51-9199
+colorist ns	Colorist \ n.s.	19-4031
+colorist ns	Colorist \ n.s.	27-1019
+colorist ns	Colorist \ n.s.	39-5012
+colorman	Colorman	27-4012
+colorman	Colorman	51-9122
+combine operator	Combine operator	45-2091
+combine operator	Combine operator	51-9041
+committeeperson	Committeeperson	11-3049
+committeeperson	Committeeperson	21-1099
+committeeperson	Committeeperson	39-9032
+communications consultant	Communications consultant	15-1081
+communications consultant	Communications consultant	41-3099
+communications ns technician	Technician, communications \ n.s.	27-4011
+communications ns technician	Technician, communications \ n.s.	49-2022
+compliance officer	Compliance officer	13-1041
+compliance officer	Compliance officer	47-4011
+concessionaire	Concessionaire	11-9051
+concessionaire	Concessionaire	35-3022
+conciliator	Conciliator	13-1079
+conciliator	Conciliator	23-1022
+concrete mixer	Concrete mixer	47-2061
+concrete mixer	Concrete mixer	47-3019
+concrete mixer	Concrete mixer	51-9023
+conductor	Conductor	39-6032
+conductor	Conductor	53-4031
+conduit installer	Conduit installer	47-2111
+conduit installer	Conduit installer	49-9052
+conduit mechanic	Mechanic, conduit	47-4099
+conduit mechanic	Mechanic, conduit	49-9052
+construction person	Construction person	47-2061
+construction person	Construction person	49-9052
+consultant cosmetic	Cosmetic consultant	39-5012
+consultant cosmetic	Cosmetic consultant	41-2031
+consultant ns	Consultant \ n.s.	13-1111
+consultant ns	Consultant \ n.s.	41-2031
+contact person	Contact person	19-1031
+contact person	Contact person	41-3011
+contact person	Contact person	41-3021
+contact person	Contact person	41-4012
+contact person	Contact person	41-9099
+contact person	Contact person	43-4151
+contract negotiator	Contract negotiator	13-1079
+contract negotiator	Contract negotiator	23-1022
+contract negotiator	Negotiator, contract	13-1079
+contract negotiator	Negotiator, contract	23-1022
+contractor farm	Contractor, farm	11-9011
+contractor farm	Contractor, farm	11-9012
+contractor farm	Contractor, farm	45-1012
+control operator	Control operator	27-4012
+control operator	Control operator	51-4199
+control operator	Control operator	51-8093
+control operator tower	Control tower operator	43-5061
+control operator tower	Control tower operator	53-2021
+control operator tower	Control tower operator	53-4099
+control operator tower	Tower control operator	53-2021
+controller supply	Supply controller	11-3071
+controller supply	Supply controller	51-9023
+converter	Converter	41-4012
+converter	Converter	51-4051
+converter	Converter	51-9199
+conveyor operator	Conveyor operator	51-6011
+conveyor operator	Conveyor operator	53-7011
+cook head ns	Head cook \ n.s.	35-1011
+cook head ns	Head cook \ n.s.	51-1011
+cook head ns	Head cook \ n.s.	51-3011
+cook helper	Helper, cook	35-2021
+cook helper	Helper, cook	51-9198
+cook ns	Cook \ n.s.	35-2013
+cook ns	Cook \ n.s.	35-2014
+cook ns	Cook \ n.s.	51-3011
+cook ns	Cook \ n.s.	51-3093
+cook pastry	Pastry cook	35-1011
+cook pastry	Pastry cook	51-3011
+cook vegetable	Vegetable cook	35-2014
+cook vegetable	Vegetable cook	51-3093
+coordinator operations	Operations coordinator	11-9199
+coordinator operations	Operations coordinator	53-2022
+copyist music	Copyist, music	27-2042
+copyist music	Music copyist	43-9199
+copyist ns	Copyist \ n.s.	27-1029
+copyist ns	Copyist \ n.s.	51-6099
+copyist ns	Copyist \ n.s.	51-9199
+cordwood cutter	Cordwood cutter	45-4029
+cordwood cutter	Cordwood cutter	51-7041
+corn cutter	Corn cutter	45-2091
+corn cutter	Corn cutter	51-9032
+corn detasseler	Corn detasseler	45-2092
+corn detasseler	Corn detasseler	53-7062
+corn husker	Corn husker	45-2092
+corn husker	Corn husker	51-9021
+cornice maker	Cornice maker	47-2211
+cornice maker	Cornice maker	51-9199
+correspondent	Correspondent	27-3022
+correspondent	Correspondent	43-4021
+corsetier	Corsetier	41-2031
+corsetier	Corsetier	51-6099
+cost estimator exc job	Job estimator, exc. cost	13-1031
+cost estimator exc job	Job estimator, exc. cost	43-5061
+cost estimator exc job	Job estimator, exc. cost	51-9061
+cottage parent	Cottage parent	33-3012
+cottage parent	Cottage parent	39-9041
+cottage supervisor	Supervisor, cottage	33-3012
+cottage supervisor	Supervisor, cottage	39-9041
+cotton inspector	Inspector, cotton	45-2011
+cotton inspector	Inspector, cotton	51-9061
+cotton puller	Cotton puller	45-2092
+cotton puller	Cotton puller	53-7063
+counter	Counter	43-5111
+counter	Counter	51-9199
+counter helper	Helper, counter	35-3022
+counter helper	Helper, counter	41-2021
+counter money	Money counter	41-2011
+counter money	Money counter	43-3071
+counter stock	Stock counter	43-5081
+counter stock	Stock counter	53-7062
+county supervisor	Supervisor, county	11-1011
+county supervisor	Supervisor, county	25-9021
+coupler	Coupler	45-4029
+coupler	Coupler	53-4021
+court reporter	Court reporter	23-2091
+court reporter	Court reporter	27-3022
+activity any farm ns specified wife	Farm wife \ n.s. or any specified activity	11-9011
+activity any farm ns specified wife	Farm wife \ n.s. or any specified activity	11-9012
+activity any farm ns specified wife	Farm wife \ n.s. or any specified activity	45-2092
+cow exc operator own	Operator, C.O.W. exc. OWN	11-9011
+cow exc operator own	Operator, C.O.W. exc. OWN	11-9111
+cow exc operator own	Operator, C.O.W. exc. OWN	27-4021
+cow exc operator own	Operator, C.O.W. exc. OWN	39-3021
+cow exc operator own	Operator, C.O.W. exc. OWN	39-3091
+cow exc operator own	Operator, C.O.W. exc. OWN	39-5011
+cow exc operator own	Operator, C.O.W. exc. OWN	39-5012
+cow exc operator own	Operator, C.O.W. exc. OWN	43-2021
+cow exc operator own	Operator, C.O.W. exc. OWN	43-2099
+cow exc operator own	Operator, C.O.W. exc. OWN	43-2099
+cow exc operator own	Operator, C.O.W. exc. OWN	43-2099
+cow exc operator own	Operator, C.O.W. exc. OWN	43-5032
+cow exc operator own	Operator, C.O.W. exc. OWN	47-5049
+cow exc operator own	Operator, C.O.W. exc. OWN	51-6011
+cow exc operator own	Operator, C.O.W. exc. OWN	51-8013
+cow exc operator own	Operator, C.O.W. exc. OWN	51-8031
+cow exc operator own	Operator, C.O.W. exc. OWN	53-3021
+cow exc operator own	Operator, C.O.W. exc. OWN	53-4011
+cowboy	Cowboy	27-2099
+cowboy	Cowboy	45-2093
+cowboy	Cowboy	45-2093
+crabber	Crabber	45-3011
+crabber	Crabber	51-6099
+craft worker	Craft worker	27-1012
+craft worker	Craft worker	51-9071
+crafter	Crafter	27-1012
+crafter	Crafter	51-9071
+crane follower	Crane follower	45-4029
+crane follower	Crane follower	53-7199
+crane hooker	Crane hooker	45-4029
+crane hooker	Crane hooker	53-7199
+cream dumper	Cream dumper	45-2099
+cream dumper	Cream dumper	51-9199
+cream dumper	Cream dumper	53-7062
+crew leader	Crew leader	33-2011
+crew leader	Crew leader	35-1012
+crew leader	Crew leader	43-1011
+crew leader	Crew leader	45-1012
+crew leader	Crew leader	47-1011
+crew leader	Crew leader	51-1011
+crew leader	Crew leader	51-9199
+crew manager	Manager, crew	41-1012
+crew manager	Manager, crew	43-1011
+crewman ground	Ground crewman	37-3011
+crewman ground	Ground crewman	45-4011
+cropper	Cropper	11-9011
+cropper	Cropper	11-9012
+cropper	Cropper	51-6062
+crosscutter	Crosscutter	45-4029
+crosscutter	Crosscutter	51-7041
+crossing tender	Crossing tender	33-9091
+crossing tender	Crossing tender	53-6011
+crossing watchman	Crossing watchman	33-9091
+crossing watchman	Crossing watchman	53-6011
+crowner	Crowner	49-9064
+crowner	Crowner	51-6042
+cruiser	Cruiser	45-4029
+cruiser	Cruiser	51-9061
+crusher feeder	Crusher feeder	51-9021
+crusher feeder	Crusher feeder	53-7063
+air operator tool	Air tool operator	47-2061
+air operator tool	Air tool operator	51-9199
+culler	Culler	45-2092
+culler	Culler	51-9061
+cultivator	Cultivator	11-9011
+cultivator	Cultivator	11-9012
+cultivator	Cultivator	45-2091
+culturist rat	Rat culturist	11-9011
+culturist rat	Rat culturist	45-2021
+custodian ns	Custodian \ n.s.	37-2011
+custodian ns	Custodian \ n.s.	43-5081
+custodian vault	Vault custodian	43-4199
+custodian vault	Vault custodian	51-6011
+custom grinder	Custom grinder	45-2092
+custom grinder	Custom grinder	51-9021
+customer manager service	Manager, customer service	11-2031
+customer manager service	Manager, customer service	41-1012
+customer manager service	Manager, customer service	43-1011
+customers on waiting	Waiting on customers	35-3031
+customers on waiting	Waiting on customers	41-2021
+airman	Airman	47-2031
+airman	Airman	49-3043
+cutter fruit	Fruit cutter	45-2092
+cutter fruit	Fruit cutter	51-9199
+cutter machine	Machine cutter	47-5042
+cutter machine	Machine cutter	51-9032
+cutter mushroom	Mushroom cutter	45-2092
+cutter mushroom	Mushroom cutter	51-9032
+alarm burglar inspector	Inspector, burglar alarm	49-2098
+alarm burglar inspector	Inspector, burglar alarm	51-9061
+cutter ns	Cutter \ n.s.	45-2092
+cutter ns	Cutter \ n.s.	45-4029
+cutter ns	Cutter \ n.s.	47-5042
+cutter ns	Cutter \ n.s.	51-3022
+cutter ns	Cutter \ n.s.	51-4031
+cutter ns	Cutter \ n.s.	51-5012
+cutter ns	Cutter \ n.s.	51-6041
+cutter ns	Cutter \ n.s.	51-6052
+cutter ns	Cutter \ n.s.	51-6062
+cutter ns	Cutter \ n.s.	51-6062
+cutter ns	Cutter \ n.s.	51-7041
+cutter ns	Cutter \ n.s.	51-9032
+cutter ns	Cutter \ n.s.	51-9132
+cutter ns	Cutter \ n.s.	51-9132
+cutter ns	Cutter \ n.s.	51-9195
+cutter operator	Cutter operator	47-5042
+cutter operator	Cutter operator	51-9032
+cutter pipe	Pipe cutter	47-2152
+cutter pipe	Pipe cutter	47-3015
+cutter pipe	Pipe cutter	51-9032
+cutter potato seed	Potato seed cutter	45-2092
+cutter potato seed	Seed potato cutter	51-9032
+cutter prop	Prop cutter	45-4029
+cutter prop	Prop cutter	51-7041
+cutter roll	Roll cutter	49-9041
+cutter roll	Roll cutter	51-9032
+cutter shake	Shake cutter	45-4029
+cutter shake	Shake cutter	51-7041
+cutter stock	Stock cutter	45-4029
+cutter stock	Stock cutter	51-7041
+cutter stock	Stock cutter	51-9032
+cutter timber	Timber cutter	37-3013
+cutter timber	Timber cutter	45-4021
+cutter timber	Timber cutter	45-4029
+cutter timber	Timber cutter	51-7041
+cutter timber	Timber cutter	53-7062
+cutter tobacco	Tobacco cutter	45-2092
+cutter tobacco	Tobacco cutter	51-9032
+cutter under	Under cutter	45-4029
+cutter under	Under cutter	47-5042
+cutter under	Under cutter	51-4031
+cutter weed	Weed cutter	37-3011
+cutter weed	Weed cutter	45-2092
+cutter wood	Wood cutter	45-4029
+cutter wood	Wood cutter	51-7041
+cutter wood	Wood cutter	53-7062
+alarm fire inspector	Inspector, fire alarm	33-2021
+alarm fire inspector	Inspector, fire alarm	51-9061
+dairy farmer	Dairy farmer	11-9011
+dairy farmer	Dairy farmer	11-9012
+dairy farmer	Farmer, dairy	11-9011
+dairy farmer	Farmer, dairy	11-9012
+dairy farmer	Farmer, dairy	45-2093
+dairy hand	Dairy hand	45-2093
+dairy hand	Dairy hand	53-7062
+dairy husbandman	Dairy husbandman	11-9011
+dairy husbandman	Dairy husbandman	11-9012
+dairy husbandman	Dairy husbandman	19-1011
+dairy worker	Dairy worker	45-2093
+dairy worker	Dairy worker	53-7062
+dairyman	Dairyman	11-9011
+dairyman	Dairyman	11-9012
+dairyman	Dairyman	41-1011
+dairyman	Dairyman	45-2093
+dairyman	Dairyman	53-7063
+dam laborer tailings	Laborer, tailings dam	47-5099
+dam laborer tailings	Laborer, tailings dam	51-9199
+alarm fire operator	Fire alarm operator	33-2011
+alarm fire operator	Fire alarm operator	43-5032
+dam operator	Dam operator	45-4029
+dam operator	Dam operator	53-6011
+dam tender	Dam tender	45-4029
+dam tender	Dam tender	53-6011
+dealer ns	Dealer \ n.s.	13-1021
+dealer ns	Dealer \ n.s.	39-3011
+dealer ns	Dealer \ n.s.	41-1011
+dealer ns	Dealer \ n.s.	41-1012
+dealer ns	Dealer \ n.s.	41-9021
+dean	Dean	11-9033
+dean	Dean	21-2021
+activity any machinist ns other	Machinist \ any other activity or n.s.	49-3031
+activity any machinist ns other	Machinist \ any other activity or n.s.	49-9041
+activity any machinist ns other	Machinist \ any other activity or n.s.	51-4041
+alarm operator	Alarm operator	33-3051
+alarm operator	Alarm operator	43-5031
+alarm operator	Alarm operator	43-5032
+deckhand ns	Deckhand \ n.s.	45-3011
+deckhand ns	Deckhand \ n.s.	45-4029
+deckhand ns	Deckhand \ n.s.	53-5011
+decorator ns	Decorator \ n.s.	27-1025
+decorator ns	Decorator \ n.s.	27-1026
+decorator ns	Decorator \ n.s.	47-2141
+decorator ns	Decorator \ n.s.	51-3011
+decorator ns	Decorator \ n.s.	51-3092
+decorator ns	Decorator \ n.s.	51-6031
+decorator ns	Decorator \ n.s.	51-6093
+decorator ns	Decorator \ n.s.	51-9123
+decorator ns	Decorator \ n.s.	51-9195
+deep diver sea	Deep sea diver	45-3011
+deep diver sea	Deep sea diver	49-9092
+delegate	Delegate	11-1031
+delegate	Delegate	21-1099
+deliverer ns	Deliverer \ n.s.	41-9091
+deliverer ns	Deliverer \ n.s.	43-5021
+deliverer ns	Deliverer \ n.s.	53-3033
+deliverer route	Route deliverer	49-9091
+deliverer route	Route deliverer	53-3031
+deliverer route	Route deliverer	53-3033
+delivery driver	Delivery driver	25-4031
+delivery driver	Delivery driver	43-5021
+delivery driver	Delivery driver	45-4029
+delivery driver	Delivery driver	53-3021
+delivery driver	Delivery driver	53-3033
+delivery driver	Delivery driver	53-3041
+demonstrator ns	Demonstrator \ n.s.	25-9021
+demonstrator ns	Demonstrator \ n.s.	41-9011
+department departments manager ns other specified	Manager, department \ n.s. or other specified departments	11-9199
+department departments manager ns other specified	Manager, department \ n.s. or other specified departments	41-1011
+department head	Department head	11-9033
+department head	Department head	11-9071
+department head	Department head	21-2021
+department head	Department head	41-1011
+department head	Department head	51-1011
+department jewelry supervisor	Supervisor, jewelry department	41-1011
+department jewelry supervisor	Supervisor, jewelry department	51-1011
+department supervisor	Supervisor, department	11-9111
+department supervisor	Supervisor, department	11-9151
+department supervisor	Supervisor, department	41-1011
+department supervisor	Supervisor, department	43-1011
+department supervisor	Supervisor, department	51-1011
+deputy	Deputy	11-9199
+deputy	Deputy	33-3012
+derrick follower	Derrick follower	45-4029
+derrick follower	Derrick follower	53-7199
+derrick operator	Derrick operator	47-5011
+derrick operator	Derrick operator	53-7041
+all camera operator other	Camera operator \ all other	27-4021
+all camera operator other	Camera operator \ all other	51-5022
+designer	Designer	17-2011
+designer	Designer	27-1029
+designer	Designer	39-5012
+designer	Designer	51-6099
+designer	Designer	51-9082
+detailer ns	Detailer \ n.s.	17-3019
+detailer ns	Detailer \ n.s.	41-4011
+detailer ns	Detailer \ n.s.	51-2099
+detailer ns	Detailer \ n.s.	53-7061
+detasseler	Detasseler	45-2092
+detasseler	Detasseler	53-7062
+developer	Developer	11-9021
+developer	Developer	11-9141
+developer	Developer	51-4062
+developer	Developer	51-9131
+alley boy man ns	Alley boy or man \ n.s.	37-2011
+alley boy man ns	Alley boy or man \ n.s.	39-3091
+development research technician	Technician, research and development	17-3023
+development research technician	Technician, research and development	17-3027
+development research technician	Technician, research and development	19-4011
+development research technician	Technician, research and development	19-4031
+diagnostician	Diagnostician	29-1069
+diagnostician	Diagnostician	37-3013
+diagnostician	Diagnostician	51-9061
+diamond driller	Diamond driller	47-5021
+diamond driller	Diamond driller	51-9071
+diesel engine operator	Diesel engine operator	51-8021
+diesel engine operator	Diesel engine operator	53-4011
+diesel engineer	Engineer, diesel	17-2141
+diesel engineer	Engineer, diesel	53-4011
+dietitian teacher	Teacher, dietitian	25-1071
+dietitian teacher	Teacher, dietitian	29-1031
+digger	Digger	11-9012
+digger	Digger	45-2092
+digger	Digger	45-3011
+digger	Digger	47-2061
+digger	Digger	51-9199
+digger ditch	Ditch digger	45-2092
+digger ditch	Ditch digger	45-2093
+digger ditch	Ditch digger	47-2061
+dinger	Dinger	49-3021
+dinger	Dinger	51-4033
+dipper ns	Dipper \ n.s.	45-2093
+dipper ns	Dipper \ n.s.	45-4011
+dipper ns	Dipper \ n.s.	51-4071
+dipper ns	Dipper \ n.s.	51-9121
+dipper ns	Dipper \ n.s.	51-9199
+director education physical	Director of physical education	11-9032
+director education physical	Director of physical education	11-9033
+director education physical	Director of physical education	27-2022
+director educational	Educational director	11-9039
+director educational	Educational director	21-1012
+director educational	Educational director	21-2021
+director home service	Home service director	11-9151
+director home service	Home service director	25-9021
+director music	Director of music	25-1121
+director music	Director of music	25-2021
+director music	Director of music	25-2031
+director music	Director of music	25-3021
+director music	Director of music	27-2041
+director music	Music director	25-1121
+director music	Music director	25-2021
+director music	Music director	25-2031
+director music	Music director	25-3021
+director music	Music director	27-2041
+director ns	Director \ n.s.	11-1021
+director ns	Director \ n.s.	11-9031
+director ns	Director \ n.s.	11-9032
+director ns	Director \ n.s.	11-9033
+director ns	Director \ n.s.	11-9039
+director ns	Director \ n.s.	11-9061
+director ns	Director \ n.s.	11-9081
+director ns	Director \ n.s.	11-9111
+director ns	Director \ n.s.	11-9151
+director ns	Director \ n.s.	25-4012
+director ns	Director \ n.s.	27-2012
+director ns	Director \ n.s.	33-1099
+director ns	Director \ n.s.	41-1011
+director ns	Director \ n.s.	41-1012
+director production	Production director	27-2012
+director production	Production director	51-1011
+director program	Program director	11-9111
+director program	Program director	11-9151
+director program	Program director	21-2021
+director program	Program director	27-2012
+director relocation	Relocation director	11-9199
+director relocation	Relocation director	13-1072
+director research	Director of research	11-9033
+director research	Director of research	11-9111
+director research	Director of research	11-9121
+director research	Director of research	11-9199
+director research	Director of research	19-3099
+director research	Research director	11-9033
+director research	Research director	11-9111
+director research	Research director	11-9121
+director research	Research director	11-9199
+director research	Research director	19-3099
+analyst forms	Forms analyst	13-1111
+analyst forms	Forms analyst	15-2031
+director safety	Safety director	11-9041
+director safety	Safety director	11-9199
+director safety	Safety director	17-2151
+director safety	Safety director	53-6051
+director services volunteer	Director of volunteer services	11-9111
+director services volunteer	Director of volunteer services	11-9151
+director services volunteer	Volunteer services director	11-9111
+director services volunteer	Volunteer services director	21-1099
+director technical	Technical director	11-3071
+director technical	Technical director	11-9041
+director technical	Technical director	27-2012
+dishwashing machine operator	Dishwashing machine operator	35-9021
+dishwashing machine operator	Dishwashing machine operator	53-7061
+dispatcher ns	Dispatcher \ n.s.	43-5031
+dispatcher ns	Dispatcher \ n.s.	43-5032
+dispatcher ns	Dispatcher \ n.s.	43-5032
+dispatcher ns	Dispatcher \ n.s.	47-1011
+dispatcher ns	Dispatcher \ n.s.	51-1011
+dispatcher ns	Dispatcher \ n.s.	51-8012
+dispatcher ns	Dispatcher \ n.s.	51-8031
+dispatcher ns	Dispatcher \ n.s.	51-8092
+dispatcher ns	Dispatcher \ n.s.	53-1031
+dispatcher ns	Dispatcher \ n.s.	53-1031
+dispatcher ns	Dispatcher \ n.s.	53-2021
+dispatcher ns	Dispatcher \ n.s.	53-4031
+dispatcher oil	Dispatcher, oil	43-2099
+dispatcher oil	Dispatcher, oil	43-5032
+dispatcher oil	Oil dispatcher	43-5032
+dispatcher oil	Oil dispatcher	53-1031
+analyst ns	Analyst \ n.s.	13-1031
+analyst ns	Analyst \ n.s.	15-1051
+analyst ns	Analyst \ n.s.	15-2031
+analyst ns	Analyst \ n.s.	19-2031
+dispatcher ticket	Ticket dispatcher	41-2011
+dispatcher ticket	Ticket dispatcher	41-2011
+dispatcher ticket	Ticket dispatcher	43-4181
+dispatcher ticket	Ticket dispatcher	43-4181
+distillery worker	Distillery worker	51-9012
+distillery worker	Distillery worker	53-7062
+distribution fuel operator system	Fuel distribution system operator	51-8093
+distribution fuel operator system	Fuel distribution system operator	53-7072
+distribution manager	Manager, distribution	11-3071
+distribution manager	Manager, distribution	41-1012
+distribution superintendent	Distribution superintendent	49-1011
+distribution superintendent	Superintendent, distribution	51-1011
+distributor	Distributor	41-2031
+distributor	Distributor	41-4012
+distributor	Distributor	41-9091
+distributor	Distributor	43-5021
+distributor	Distributor	43-5053
+distributor	Distributor	51-6011
+distributor	Distributor	53-3031
+distributor	Distributor	53-7199
+analyst research	Research analyst	11-9199
+analyst research	Research analyst	15-2099
+analyst research	Research analyst	23-2011
+district manager	Manager, district	11-1021
+district manager	Manager, district	11-2022
+district manager	Manager, district	11-3031
+district manager	Manager, district	11-9141
+district manager	Manager, district	41-1012
+ditch rider	Ditch rider	45-2092
+ditch rider	Ditch rider	45-2093
+ditch rider	Ditch rider	47-2061
+ditch tender	Ditch tender	45-2092
+ditch tender	Ditch tender	45-2093
+ditch tender	Ditch tender	53-7199
+ditcher	Ditcher	45-2092
+ditcher	Ditcher	45-2093
+ditcher	Ditcher	47-2061
+diver	Diver	27-2021
+diver	Diver	33-3051
+diver	Diver	45-3011
+diver	Diver	49-9092
+division engineer	Engineer, division	11-3071
+division engineer	Engineer, division	17-2071
+division manager	Manager, division	11-2022
+division manager	Manager, division	11-9151
+division manager	Manager, division	11-9199
+division manager	Manager, division	41-1012
+dockmaster	Dockmaster	11-3071
+dockmaster	Dockmaster	53-1031
+dogger	Dogger	45-4029
+dogger	Dogger	51-9199
+dollyman	Dollyman	51-7042
+dollyman	Dollyman	53-7062
+door hanger	Door hanger	47-2031
+door hanger	Door hanger	51-2099
+door liner	Door liner	47-2021
+door liner	Door liner	51-2099
+door tender	Door tender	33-9032
+door tender	Door tender	39-3031
+doormaker	Doormaker	47-2031
+doormaker	Doormaker	51-2099
+doormaker	Doormaker	51-9199
+dopeman	Dopeman	47-2061
+dopeman	Dopeman	49-9043
+dopeman	Dopeman	51-9122
+doper	Doper	49-9043
+doper	Doper	51-6042
+doper	Doper	51-9122
+doper	Doper	51-9131
+doper	Doper	51-9199
